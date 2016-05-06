@@ -31,4 +31,4 @@
 
 ## Fonte
 
-Christian Marrone, via e-mail.
+Christian Marrone, Vice coordinatore Forza Italia Desio.
