@@ -2,8 +2,9 @@ Questo è un contenitore che vuole fornire ai cittadini desiani la possibilità 
 
 Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](richiesta-del-programma-elettorale.md) maggiori informazioni.
 
-Lista delle forze politiche:
+Lista, in ordine alfabetico, delle forze politiche:
 
+- [Forza Italia](forza-italia.md)
 - [La Nostra Desio](la-nostra-desio.md)
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
 - [Lista Civica Per Desio](lista-civica-per-desio.md)
