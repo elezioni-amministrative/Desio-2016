@@ -3,7 +3,7 @@
 ## Lista candidati
 
 1. Sara Montrasio ([Facebook](https://www.facebook.com/saramon))
-2. Luca Gelosa
+2. Luca Gelosa [biografia](movimento-5-stelle.md#luca-gelosa)
 
 ### Luca Gelosa
 
