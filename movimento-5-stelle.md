@@ -11,6 +11,13 @@
 
 **Per Desio desidero**: a rontare la disoccupazione: il lavoro è innanzitutto dignità e la dignità non dovrebbe essere negata a nessuno, far ri orire la nostra città per aiutare le piccole realtà commerciali e artigianali che sono il  ore all’occhiello del nostro territorio. Ma non solo. Creare nuovo lavoro promuovendo il Microcredito 5 Stelle.
 
-[Programma](https://www.facebook.com/montrasiodesio/posts/1750862128517542)
-[Biografia candidati](https://www.facebook.com/montrasiodesio/posts/1750331395237282)
+## Programma
 
+### TURISMO E COMMERCIO
+
+Vogliamo portare sempre più persone a Desio per far conoscere le sue bellezze e la sua storia, creando eventi di interesse più ampio e supportandoli con una comunicazione ef cace. Il tutto con la collaborazione e il coinvolgimento delle realtà commerciali desiane.
+
+## Link e risorse
+
+- [Programma](https://www.facebook.com/montrasiodesio/posts/1750862128517542)
+- [Biografia candidati](https://www.facebook.com/montrasiodesio/posts/1750331395237282)
