@@ -1,3 +1,5 @@
+Link corto: [bit.ly/amministrative-2016-desio](https://bit.ly/amministrative-2016-desio)
+
 Questo è un contenitore che vuole fornire ai cittadini desiani la possibilità di confrontare le proposte di ogni forza politica.
 
 Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](richiesta-del-programma-elettorale.md) maggiori informazioni.
