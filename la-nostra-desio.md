@@ -1,4 +1,6 @@
-Importata dal [post Facebook](https://www.facebook.com/groups/635250689889117/permalink/1010104575737058/)
+# La Nostra Desio
+
+## Programma
 
 LA NOSTRA DESIO non è un partito, ma una lista civica, creata da un gruppo di persone normali che scende in campo per il bene comune. Cittadini con l'obiettivo di dar voce ai cittadini. 
 
@@ -6,7 +8,7 @@ Il nostro programma nasce dal dialogo e dal confronto, una convergenza di opinio
 
 Le nostre priorità sono sicurezza, lavoro, tematiche sociali, tutela ambientale, valorizzazione del territorio e del commercio, politiche per i giovani.
 
-## 1. SICUREZZA
+### 1. SICUREZZA
 
 Considerati i recenti episodi che hanno turbato l'ordine pubblico, La Nostra Desio porrà grande attenzione alla pubblica sicurezza. Le nostre idee in merito sono:
 
@@ -16,11 +18,11 @@ Considerati i recenti episodi che hanno turbato l'ordine pubblico, La Nostra Des
 4. Predisporre un sistema di video sorveglianza ed illuminazione delle aree più buie e periferiche
 5. Garantire un corso gratuito di autodifesa femminile
 
-## 2. LAVORO
+### 2. LAVORO
 
 Rilanciare l'occupazione è di importanza fondamentale per La Nostra Desio, cui scopo é costituire della GSD in SOC COOP ARL, cui affidare tutti i lavori e le manutenzioni ordinarie pubbliche (manutenzione del verde, manutenzione stradale, ausiliari del traffico, sicurezza notturna, sorveglianza, problem solving), favorendo l'impiego di disoccupati, opportunamente suddivisi nelle varie categorie a seconda di tipologia e competenze
 
-## 3. SOCIALE
+### 3. SOCIALE
 
 Favorire le FAMIGLIE ITALIANE E LE QUOTE TRICOLORE è uno degli obiettivi primari de La Nostra Desio, attraverso:
 
@@ -34,14 +36,14 @@ determinare l'assegnazione dei posti secondo criteri di residenza e nazionalità
 7. Favorire spazi di aggregazione per giovani ed anziani
 8. Eliminare parcheggi a pagamento in giro per la città, compresa la zona stazione
 
-## 4. AMBIENTE
+### 4. AMBIENTE
 
 La Nostra Desio promuove iniziative aventi l'obiettivo di sostenere lo sviluppo sostenibile della città, mediante:
 
 1. Adozione di pannelli fotovoltaici per strutture ed edifici pubblici, garantendo il risparmio energetico
 2. Rimozione immediata dei binari del tram
 
-## 5. VALORIZZAZIONE TERRITORIO E COMMERCIO
+### 5. VALORIZZAZIONE TERRITORIO E COMMERCIO
 
 Da sempre patrimonio culturale e commercio sono l'anima di una città. La Nostra Desio si impegna a:
 
@@ -55,7 +57,7 @@ Da sempre patrimonio culturale e commercio sono l'anima di una città. La Nostra
 8. Istituire un mercato con strutture fisse, nel centro storico, per incentivare iniziative e attrarre persone di zone limitrofe 
 9. Pianificare eventi ed iniziative per rilanciare il centro storico ed il patrimonio artistico, favorendo attività di valorizzazione e conoscenza della città (Museo Pio XI, Villa Tittoni) anche attraverso accordi con scuole ed associazioni
 
-## 6. SPORT E TEMPO LIBERO
+### 6. SPORT E TEMPO LIBERO
 
 Incentivare sport ed attività per tutte le varie fasce di età, come rispetto delle regole e del vivere sano, insieme. A tale proposito, ci impegniamo a sostenere:
 
@@ -65,3 +67,7 @@ Incentivare sport ed attività per tutte le varie fasce di età, come rispetto d
 4. Iniziative di informazione sportiva e nutrizionale in asili, scuole e associazioni sportive
 5. Promozione di corsi tenuti da esperti, all'interno di palestre comunali e aree verdi (es. passeggiate)
 6. Promozione di eventi e camp sportivi di vario genere
+
+## Fonte
+
+Importata dal [post Facebook](https://www.facebook.com/groups/635250689889117/permalink/1010104575737058/).
