@@ -9,8 +9,7 @@
 
 ![Sara Montrasio](movimento-5-stelle/sara-montrasio.jpg)
 
-- [Facebook (personale)](https://www.facebook.com/saramon)
-- [Facebook (politico)](https://www.facebook.com/montrasiodesio)
+- [Facebook](https://www.facebook.com/montrasiodesio)
 
 ## Lista candidati
 
