@@ -11,3 +11,4 @@ Lista, in ordine alfabetico, delle forze politiche:
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
 - [Lista Civica Per Desio](lista-civica-per-desio.md)
 - [Movimento 5 Stelle](movimento-5-stelle.md)
+- [Partito Democratico](partito-democratico.md)
