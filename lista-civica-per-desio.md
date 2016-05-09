@@ -20,28 +20,28 @@ Ho deciso di proseguire a fare politica a livello locale con una lista civica po
 
 ## Lista Candidati
 
-| Nome | Foto |
-|-------|-------|
-| andrea civiero | ![andrea-civiero](lista-civica-per-desio/andrea-civiero.jpg) |
-| barbara claudia ghezzi | ![barbara-claudia-ghezzi](lista-civica-per-desio/barbara-claudia-ghezzi.jpg) |
-| chiara riva | ![chiara-riva](lista-civica-per-desio/chiara-riva.jpg) |
-| donatella sala | ![donatella-sala](lista-civica-per-desio/donatella-sala.jpg) |
-| elena tincati | ![elena-tincati](lista-civica-per-desio/elena-tincati.jpg) |
-| gianluca zanelotto | ![gianluca-zanelotto](lista-civica-per-desio/gianluca-zanelotto.jpg) |
-| gianni secchi | ![gianni-secchi](lista-civica-per-desio/gianni-secchi.jpg) |
-| giorgio rampi | ![giorgio-rampi](lista-civica-per-desio/giorgio-rampi.jpg) |
-| laura gaiani | ![laura-gaiani](lista-civica-per-desio/laura-gaiani.jpg) |
-| laura lucidera | ![laura-lucidera](lista-civica-per-desio/laura-lucidera.jpg) |
-| luca brioschi | ![luca-brioschi](lista-civica-per-desio/luca-brioschi.jpg) |
-| luca rampi | ![luca-rampi](lista-civica-per-desio/luca-rampi.jpg) |
-| luisa villa detta luisella | ![luisa-villa-detta-luisella](lista-civica-per-desio/luisa-villa-detta-luisella.jpg) |
-| margherita burgio | ![margherita-burgio](lista-civica-per-desio/margherita-burgio.jpg) |
-| paolo gelosa | ![paolo-gelosa](lista-civica-per-desio/paolo-gelosa.jpg) |
-| paolo perrella | ![paolo-perrella](lista-civica-per-desio/paolo-perrella.jpg) |
-| roberto guenzati | ![roberto-guenzati](lista-civica-per-desio/roberto-guenzati.jpg) |
-| simone biscaro | ![simone-biscaro](lista-civica-per-desio/simone-biscaro.jpg) |
-| simone valtorta | ![simone-valtorta](lista-civica-per-desio/simone-valtorta.jpg) |
-| valerio barbirato | ![valerio-barbirato](lista-civica-per-desio/valerio-barbirato.jpg) |
+| Nome | Foto | Comune di nascita | Data di nascita | Biografia |
+|------|------|-------------------|-----------------|:---------:|
+| Andrea Civiero | ![andrea-civiero](lista-civica-per-desio/andrea-civiero.jpg) | Carate B.za | 30/01/1976 | [:link:](#andrea-civiero) |
+| Barbara Claudia Ghezzi | ![barbara-claudia-ghezzi](lista-civica-per-desio/barbara-claudia-ghezzi.jpg) | Milano | 03/04/1972 | |
+| Chiara Riva | ![chiara-riva](lista-civica-per-desio/chiara-riva.jpg) | Desio | 26/10/1967 | |
+| Donatella Sala | ![donatella-sala](lista-civica-per-desio/donatella-sala.jpg) | Monza | 26/08/1967 | [:link:](#donatella-sala) |
+| Elena Tincati | ![elena-tincati](lista-civica-per-desio/elena-tincati.jpg) | Desio | 10/01/1968 | |
+| Gianluca Zanelotto | ![gianluca-zanelotto](lista-civica-per-desio/gianluca-zanelotto.jpg) | Milano | 16/07/1967 | |
+| Gianni Secchi | ![gianni-secchi](lista-civica-per-desio/gianni-secchi.jpg) | Desio | 09/04/1964 | |
+| Giorgio Rampi | ![giorgio-rampi](lista-civica-per-desio/giorgio-rampi.jpg) | Desio | 02/01/1971 | [:link:](#giorgio-rampi) |
+| Laura Gaiani | ![laura-gaiani](lista-civica-per-desio/laura-gaiani.jpg) | Desio | 26/11/1973 | |
+| Laura Lucidera | ![laura-lucidera](lista-civica-per-desio/laura-lucidera.jpg) | Desio | 17/10/1967 | [:link:](#laura-lucidera) |
+| Luca Brioschi | ![luca-brioschi](lista-civica-per-desio/luca-brioschi.jpg) | Desio | 30/10/1974 | [:link:](#luca-brioschi) |
+| Luca Rampi | ![luca-rampi](lista-civica-per-desio/luca-rampi.jpg) | Milano | 07/06/1966 | [:link:](#luca-rampi) |
+| Luisa Villa detta Luisella | ![luisa-villa-detta-luisella](lista-civica-per-desio/luisa-villa-detta-luisella.jpg) | Desio | 03/08/1951 | [:link:](#luisa-villa-detta-luisella) |
+| Margherita Burgio | ![margherita-burgio](lista-civica-per-desio/margherita-burgio.jpg) | Desio | 16/03/1963 | [:link:](#margherita-burgio) |
+| Paolo Gelosa | ![paolo-gelosa](lista-civica-per-desio/paolo-gelosa.jpg) | Milano | 18/10/1975 | |
+| Paolo Perrella | ![paolo-perrella](lista-civica-per-desio/paolo-perrella.jpg) | Monza | 26/02/1966 | [:link:](#paolo-perrella) |
+| Roberto Guenzati | ![roberto-guenzati](lista-civica-per-desio/roberto-guenzati.jpg) | Desio | 18/09/1954 | [:link:](#roberto-guenzati) |
+| Simone Biscaro | ![simone-biscaro](lista-civica-per-desio/simone-biscaro.jpg) | Desio | 18/05/1988 | |
+| Simone Valtorta | ![simone-valtorta](lista-civica-per-desio/simone-valtorta.jpg) | Desio | 18/06/1974 | [:link:](#simone-valtorta) |
+| Valerio Barbirato | ![valerio-barbirato](lista-civica-per-desio/valerio-barbirato.jpg) | Desio | 25/06/1976 | |
 
 ## Biografie Candidati
 
@@ -50,19 +50,8 @@ Ho deciso di proseguire a fare politica a livello locale con una lista civica po
 ![andrea-civiero](lista-civica-per-desio/andrea-civiero.jpg)
 
 Nato a Carate B.za il 30/01/76
+
 Ottico, sposato, due figli.
-
-### BARBARA CLAUDIA GHEZZI
-
-![barbara-claudia-ghezzi](lista-civica-per-desio/barbara-claudia-ghezzi.jpg)
-
-Nata a Milano il 3.4.1972
-
-### CHIARA RIVA
-
-![chiara-riva](lista-civica-per-desio/chiara-riva.jpg)
-
-Nata a Desio il 26.10.1967
 
 ### DONATELLA SALA
 
@@ -73,24 +62,6 @@ Nata a Monza il 26/08/1967
 Impiegata in una storica azienda desiana con mansioni amministrative.
 Mi dedico da anni al volontariato. 
 Mi sono impegnata nella lista civica perché da desiana vorrei che desio voltasse pagina con voglia di fare spendendosi PER la città e NON per personali mire politiche.
-
-### ELENA TINCATI
-
-![elena-tincati](lista-civica-per-desio/elena-tincati.jpg)
-
-Nata a Desio il 10.1.1968
-
-### GIANLUCA ZANELOTTO
-
-![gianluca-zanelotto](lista-civica-per-desio/gianluca-zanelotto.jpg)
-
-Nato a Milano il 16.7.1967
-
-### GIANNI SECCHI
-
-![gianni-secchi](lista-civica-per-desio/gianni-secchi.jpg)
-
-Nato a Desio il 9.4.1964
 
 ### GIORGIO RAMPI
 
@@ -107,17 +78,11 @@ Passioni: da sempre sportivo (basket agonistico a Desio, Dive Master subacquea, 
 
 Ho deciso di entrare nella Lista Civica Per Desio perché deluso dall'attuale amministrazione e dalla politica dei partiti. Amo la mia città e ritengo, insieme agli altri membri della Lista, di avere idee e volontà perché Desio possa tornare ad essere bella ed essere un riferimento tra le città della Brianza...una città dove sia bello vivere
 
-### LAURA GAIANI
-
-![laura-gaiani](lista-civica-per-desio/laura-gaiani.jpg)
-
-Nata a Desio il 26.11.1973
-
 ### LAURA LUCIDERA
 
 ![laura-lucidera](lista-civica-per-desio/laura-lucidera.jpg)
 
-nata a Desio Il 17/10/1967 
+Nata a Desio Il 17/10/1967 
 
 sposata, con 2 figli Andrea e Jessica professione: assistente socio sanitario presso gli anziani ,svolgo il mio lavoro con tanto amore.
 Ho scelto di aderire a questo progetto perché ho il desiderio che Desio possa cambiare, in meglio certamento con la collaborazione di tutti.
@@ -159,12 +124,6 @@ laureata
 casalinga
 Ho aderito per dare una mano e soprattutto una testa intelligente e seria alla nostra città.
 
-### PAOLO GELOSA
-
-![paolo-gelosa](lista-civica-per-desio/paolo-gelosa.jpg)
-
-Nato a Milano il 18.10.1975
-
 ### PAOLO PERRELLA
 
 ![paolo-perrella](lista-civica-per-desio/paolo-perrella.jpg)
@@ -184,12 +143,6 @@ Coniugato, 1 figlia
 Operaio 
 Motivo iscrizione lista civica: unica alternativa per provare a cambiare Desio
 
-### SIMONE BISCARO
-
-![simone-biscaro](lista-civica-per-desio/simone-biscaro.jpg)
-
-Nato a Desio il 18.5.1988
-
 ### SIMONE VALTORTA
 
 ![simone-valtorta](lista-civica-per-desio/simone-valtorta.jpg)
@@ -205,12 +158,6 @@ Ho pubblicato i libri per bambini Il giullare di Dio (Edizioni dell’Immacolata
 Dal 2010 sono co-direttore del sito di approfondimento storico www.storico.org, per il quale ho pubblicato oltre 150 articoli.
 
 Ho deciso di iscrivermi alla Lista Civica per Desio perché amo la città in cui sono nato e in cui vivo, e desidero dare la mia esperienza ed il mio contributo perché possa divenire un luogo piacevole in cui vivere e in cui fare cultura.
-
-### VALERIO BARBIRATO
-
-![valerio-barbirato](lista-civica-per-desio/valerio-barbirato.jpg)
-
-Nato a Desio il 25.6.1976
 
 ## Programma
 
