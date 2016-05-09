@@ -38,7 +38,7 @@
 
 ## Biografie candidati
 
-MORRIS ARLATI <a id="biografia-morris-arlati"></a>
+### MORRIS ARLATI
 
 **Chi sono**: Sposato e padre di un bimbo di 2 anni - Abito a Desio dal 2010 - Ho una Laurea magistrale in Scienze Economiche Aziendali, specializzazione in Legislazione delle Imprese - Impiegato contabile, lavoro presso un studio professionale e mi occupo di procedure fallimentari.
 
@@ -50,7 +50,7 @@ MORRIS ARLATI <a id="biografia-morris-arlati"></a>
 - attivare un servizio di trasporto pubblico per disincentivare l’uso dell’auto
 - sistemare le scuole e rivalutare i beni storici della nostra città, come Villa Tittoni
    
-CATERINA LA MALFA
+### CATERINA LA MALFA
 
 **Chi sono**: Convivo e sono mamma di due bambini, di 2 e 7 anni
 
@@ -60,32 +60,32 @@ CATERINA LA MALFA
 
 **Per Desio desidero**: la sua rinascita! Mi piacerebbe incentivare lo sport, coinvolgendo giovani e meno giovani, mi piace dialogare e confrontarmi con la gente, vorrei che su tutti i tetti di Desio potessimo installare i pannelli fotovoltaici, vorrei far rivivere Desio con le idee di tutti e sfruttando ogni piccola risorsa che la città possiede, come le nostre due belle piazze. C’è tanto da fare a Desio, io posso promettere che il mio impegno sarà costante, perché Desio ha bisogno di tutti noi.
    
-LUCA GELOSA
+### LUCA GELOSA
 
 **Chi sono**: impiegato, ho sempre lavorato nell’edilizia ma per via della crisi mi sono dovuto reinventare professionalmente. Padre di una bimba di due anni, per lei vorrei rendere Desio un luogo sicuro dove poter crescere. Ho molto a cuore la città: sono promotore di iniziative di volontariato. Sono Vicepresidente di un’associazione di promozione sociale, faccio parte del comitato del mio quartiere, del Controllo del Vicinato, del gruppo dei campanari della Basilica e sono consigliere della Casa di riposo.
 
 **Per Desio desidero**: a rontare la disoccupazione: il lavoro è innanzitutto dignità e la dignità non dovrebbe essere negata a nessuno, far ri orire la nostra città per aiutare le piccole realtà commerciali e artigianali che sono il  ore all’occhiello del nostro territorio. Ma non solo. Creare nuovo lavoro promuovendo il Microcredito 5 Stelle.
    
-PAOLO TIRALONGO
+### PAOLO TIRALONGO
 
 **Chi sono**: siciliano, sposato da quasi 26 anni, ho un  glio di 24 e vivo a Desio da 10 anni. Ho sempre lavorato per aziende di autotrasporti come responsabile risorse umane e responsabile della logistica.
 
 **Per Desio desidero**: più verde e meno cemento, riquali cazione degli immobili e più parchi attrezzati, sia per bambini che amici a 4 zampe. Priorità ai cittadini più bisognosi, sia sul lavoro che per la casa. Sicurezza e rispetto, sia dei propri beni che di quelli altrui. Ascoltare le persone che hanno problemi e aiutarle a risolverli. Aiutare gli immigrati a inserirsi nella comunità desiana coinvolgendoli
 nel programma cittadino.
    
-MARINA COLOMBO
+### MARINA COLOMBO
 
 **Chi sono**: Avvocato settore civile-tributario con studio a Desio, sono stata Difensore Civico del Comune dal 2000 al 2005. Ho un  glio, Alessandro, laureato in Giurisprudenza. Sono stata “adottata” da Desio  n dai tempi del Liceo e poi mi ci sono trasferita e ho aperto il mio studio legale. Da Difensore Civico per cinque anni ho ricevuto i cittadini in Comune dove avevo un mio u cio. Ho partecipato come Difensore Civico a concorsi nazionali ricevendo anche un premio per un elaborato sui problemi della città. Ho promosso a Desio l’organizzazione di un convegno sull’entrata in vigore delll’Euro. Ho tenuto una rubrica sul quotidiano “Il Giorno” in materia di condomini.
 
 **Per Desio desidero**: vorrei porre l’attenzione sulla sicurezza e sul rispetto della legalità, specie in questi momenti di gravissime tensioni e considerata la forte immigrazione avutasi in questi anni. Vorrei che si desse un’impronta urbanistica precisa che migliori l’aspetto cittadino e il verde pubblico, non solo quantitativamente ma qualitativamente.
    
-LUCA PACE
+### LUCA PACE
 
 **Chi sono**: nato a Milano, residente a Desio dal 2006 con la mia famiglia, moglie e  glia che ora ha 6 anni. Diploma tecnico elettronico, lavoro da quasi venti anni in Trenitalia come tecnico controllo qualità e sicurezza del materiale rotabile. Donatore Avis dal 1995. Mi piace aiutare chi è più sfortunato di me, sono ottimista di natura, sempre attivo, non mi piace oziare, voglio sempre fare e curiosare. Attivista del Movimento 5 Stelle dal 2010 perché credo nella coerenza e nell’onestà.
 
 **Per Desio desidero**: la partecipazione e la condivisone sono i miei ideali, vorrei fare semplicemente la mia parte da Cittadino Attivo per il bene comune, nessuna ricerca di consensi o poltrone, solo avere una città sempre più vivibile e apprezzata dai cittadini come me! OGNUNO DEVE FARE LA SUA PICCOLA PARTE
    
-PIETRO SILVIA
+### PIETRO SILVIA
 
 **Chi sono**: ho 37 anni, sono sposato e papà di tre figli.
 
@@ -93,13 +93,13 @@ Abito a Desio già da tanti anni, sono un artigiano edile con la passione del f
 
 **Per Desio desidero**: che diventi una città nuova, una città aperta alle innovazioni, una città pulita e vivibile, con iniziative e attività che coinvolgano tutti i cittadini, qualcosa che sia a portata di famiglia. Desio deve ra orzare le attività commerciali che abbiamo e agevolare quelle nuove, non solo quelle che si a acciano sulle strade del centro. È inoltre necessaria una rete di trasporto pubblico e ciente, comoda e in linea con le richieste dei cittadini.
    
-PAOLA PERETTO
+### PAOLA PERETTO
 
 **Chi sono**: nata in provincia di Biella, abito a Desio dal 2007 con il mio compagno e nostra  glia di 9 anni. Dopo una lunga esperienza lavorativa in ambito contabile e amministrativo, ho deciso di mettermi in gioco come consulente. “Respiro” quotidianamente le di coltà che molte piccole imprese a rontano a causa della pressione  scale e di una crisi economica causata da scelte politiche che non le hanno tutelate. Questo e molti altri motivi mi hanno spinta a non  darmi più della “politica delle false promesse”. Sono una persona concreta. Attiva nel Movimento 5 Stelle dal 2009 e ancora prima nel “Comitato per l’alternativa all’inceneritore”.
 
 **Per Desio desidero**: valorizzare le idee e le proposte dei cittadini. Mi piacerebbero luoghi d’incontro e aggregazione per bambini e ragazzi, una maggior valorizzazione dei luoghi d’interesse storico e culturale,  nalizzata anche a incrementare il commercio locale Vorrei poter contare su un sistema di sicurezza potenziato da telecamere (oltre che da una maggiore collaborazione tra cittadini).
    
-DANIELA RAINOLDI
+### DANIELA RAINOLDI
 
 **Chi sono**: cittadina desiana da generazioni e mamma di una ragazzo di 18 anni.
 
