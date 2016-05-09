@@ -1,6 +1,6 @@
 # Coalizione di Centro Sinistra
 
-- [Candidato Sindaco](#roberto-corti-candidato-sindado)
+- [Candidato Sindaco](#roberto-corti-candidato-sindaco)
 - [Programma](#programma)
 
 ## Forze Politiche della Coalizione
