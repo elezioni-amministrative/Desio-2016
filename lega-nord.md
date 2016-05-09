@@ -6,6 +6,16 @@
 
 ## Massimo Zanello (candidato sindaco)
 
+Sono padre di due figli, Lorenzo e Beatrice di 15 e 18 anni. Dal 1988 al 1994 sono stato consigliere comunale a Villa Cortese (MI), dove dal 1993 al 1994 ho ricoperto la carica di Assessore comunale al Bilancio.
+
+Dal 1990 al 1995 sono stato consigliere provinciale a Milano, ricoprendo dal 1994 al 1995 la carica di Presidente della Provincia di Milano. Nel 1995 sono stato nominato anche Assessore al Commercio nel Comune di Milano.
+
+Ho ricoperto la carica di Consigliere regionale dal 1995, eletto nel collegio di Milano. Nel 2000 sono stato rieletto consigliere regionale nella circoscrizione di Milano, ed ho ricoperto per l'intera legislatura l'incarico di Assessore regionale con delega all'industria, alla piccola e media impresa e alla cooperazione.
+
+Candidato nuovamente alle elezioni regionali del 2005 nella circoscrizione di Monza e Brianza, sono stato riconfermato in Consiglio regionale nelle file della Lega Nord, Presidente del gruppo consiliare.
+
+Da luglio 2006 ad aprile 2010 sono stato Assessore alle Culture, Identità e Autonomie della Lombardia. Da maggio 2010 ricopro la carica di Sottosegretario del Presidente della Regione Lombardia con delega al cinema.
+
 ![Massimo Zanello](lega-nord/massimo-zanello.jpg)
 
 ## Lista Candidati
