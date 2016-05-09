@@ -1,5 +1,7 @@
 # Lista Civica Per Desio
 
+![Logo Lista Civica Per Desio](lista-civica-per-desio/logo.jpg)
+
 - [Candidato Sindaco](#simone-gargiulo-candidato-sindaco)
 - [Lista Candidati](#lista-candidati)
 - [Biografie Candidati](#biografie-candidati)
