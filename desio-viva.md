@@ -1,5 +1,7 @@
 # Desio Viva
 
+![Logo Desio Viva](desio-viva/logo.jpg)
+
 - [Lista Candidati](#lista-candidati)
 
 ## Lista Candidati
