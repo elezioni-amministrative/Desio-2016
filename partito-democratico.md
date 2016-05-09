@@ -28,7 +28,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Massimo Carota | |
 | Nunzia Smiraglia | |
 | Paola Buonvicino | |
-| Roberto Viganò. | |
+| Roberto Viganò | |
 | Rocco Cicchetti | consigliere comunale |
 | Sara Perego | |
 | Stefano Sala | |
