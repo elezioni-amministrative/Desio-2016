@@ -18,21 +18,21 @@
 |------|-----------------|:---------:|
 | Andrea Statzu | 11 aprile 70 | |
 | Attilio Morciano | 30 maggio 62 | |
-| Caterina La Malfa | 22 ottobre 74  | [:link](#caterina-la-malfa) |
+| Caterina La Malfa | 22 ottobre 74  | [:link:](#caterina-la-malfa) |
 | Corrado Fossati | 5 ottobre 71 | |
-| Daniela Rainoldi | 6 gennaio 66  | [:link](#daniela-rainoldi) |
+| Daniela Rainoldi | 6 gennaio 66  | [:link:](#daniela-rainoldi) |
 | Enrico Ainis | 5 maggio 78  | |
 | Luca Gelosa | 4 gennaio 79 | [:link:](#luca-gelosa) |
-| Luca Pace | 8 dicembre 76 |  [:link](#luca-pace)|
+| Luca Pace | 8 dicembre 76 |  [:link:](#luca-pace)|
 | Magda Giannattasio | 6 settembre 53 | |
-| Marina Colombo | 15 agosto 60  | [:link](#marina-colombo) |
+| Marina Colombo | 15 agosto 60  | [:link:](#marina-colombo) |
 | Marzia Carpanelli | 22 aprile 78 | |
 | Massimo Barbanti | 1 dicembre 70 | |
 | Morris Arlati | 20 giugno 81  | [:link:](#morris-arlati) |
 | Oliviero Pelucchi | 18 dicembre 61  | |
-| Paola Peretto | 29 giugno 67 |  [:link](#paola-peretto)|
-| Paolo Tiralongo | 24 ottobre 66  | [:link](#paolo-tiralongo) |
-| Pietro Silvia | 12 aprile 79  |  [:link](#pietro-silvia)|
+| Paola Peretto | 29 giugno 67 |  [:link:](#paola-peretto)|
+| Paolo Tiralongo | 24 ottobre 66  | [:link:](#paolo-tiralongo) |
+| Pietro Silvia | 12 aprile 79  |  [:link:](#pietro-silvia)|
 | Roberto Castellazzi | 6 dicembre 44 | |
 | Sonia Garofalo | 7 febbraio 81 | |
 
