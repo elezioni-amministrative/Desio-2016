@@ -6,6 +6,8 @@
 
 ## Massimo Zanello (candidato sindaco)
 
+![Massimo Zanello](lega-nord/massimo-zanello.jpg)
+
 ## Lista Candidati
 
 | Nome | Occupazione | Data di nascita |
