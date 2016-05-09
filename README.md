@@ -6,6 +6,7 @@ Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](ri
 
 Lista, in ordine alfabetico, delle forze politiche:
 
+- [Lega Nord](lega-nord.md)
 - [Forza Italia](forza-italia.md)
 - [La Nostra Desio](la-nostra-desio.md)
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
