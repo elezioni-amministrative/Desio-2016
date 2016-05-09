@@ -1,5 +1,10 @@
 # Partito Democratico
 
+Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-centro-sinistra.md) che supporta il candidato sindaco [Roberto Corti](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco).
+
+- [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
+- [Programma](coalizione-di-centro-sinistra.md#programma)
+
 ## Lista candidati
 
 - Achille Taccagni
