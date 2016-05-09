@@ -1,5 +1,7 @@
 # Lega Nord
 
+![Logo Lega Nord](lega-nord/logo.jpg)
+
 - [Candidato Sindaco](#massimo-zanello-candidato-sindaco)
 - [Lista Candidati](#lista-candidati)
 - [Programma](#programma)
