@@ -38,7 +38,7 @@
 
 ## Biografie candidati
 
-MORRIS ARLATI
+[MORRIS ARLATI](#biografia-morris-arlati)
 
 **Chi sono**: Sposato e padre di un bimbo di 2 anni - Abito a Desio dal 2010 - Ho una Laurea magistrale in Scienze Economiche Aziendali, specializzazione in Legislazione delle Imprese - Impiegato contabile, lavoro presso un studio professionale e mi occupo di procedure fallimentari.
 
