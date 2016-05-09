@@ -4,36 +4,132 @@
 
 ## Paolo Smorta (Candidato Sindaco)
 
+![Paolo Smorta](uniti-per-desio/paolo-smorta.jpg)
+
 Paolo Smorta 24/07/1963 Gela (CL)
 
 ## Lista Candidati
 
-| Nome | Data di nascita | Comune di Nascita |
-|------|-----------------|-------------------|
-| Adriano Giacinto Manzotti | 03/07/1938 | Desio |
-| Alessandra Redaelli | 30/11/1974 | Desio |
-| Andrea Perfetti | 10/09/1962 | Monza |
-| Andrea Sala | 09/06/1977 | Desio |
-| Angela Ines Vegro | 10/04/1961 | Milano |
-| Armando Melfi | 07/01/1961 | San Martino d’Agri (PZ) |
-| Claudio Colnaghi | 28/11/1988 | Monza |
-| Fabio Volpentesta | 21/07/1972 | Seregno |
-| Francesco Amedeo Alberto Nicolodi | 05/10/1967 | Desio |
-| Franco Barbirato | 30/09/1957 | Desio |
-| Isabella Barbara Marcella Gagliazzo | 20/03/1967 | Desio |
-| Laura Santina Crisopulli | 08/03/1961 | Bova Marina (RC) |
-| Marco Arienti | 04/11/1982 | Desio |
-| Matteo Sollami | 16/05/1978 | Desio |
-| Nicolo D'Argenio | 18/05/1994 | Desio |
-| Norma Cannizzo | 06/05/1974 | Enna |
-| Patrizia Destro | 27/06/1953 | Cavarzare (VE) |
-| Pieraldo Arienti | 25/04/1967 | Seregno |
-| Prisca Van Deursen | 03/05/1961 | San Paolo Brasile |
-| Renato Chiavegato | 05/11/1955 | Sorgà (VR) |
-| Samantha Terraneo | 25/04/1975 | Desio |
-| Sara Alessandrello | 12/10/1982 | Crotone |
-| Sara Consonni | 29/07/1974 | Desio |
-| Stefano Olmi | 04/01/1969 | Desio |
+| Nome | Data di nascita | Comune di Nascita | Biografia |
+|------|-----------------|-------------------|:---------:|
+| Adriano Giacinto Manzotti | 03/07/1938 | Desio | |
+| Alessandra Redaelli | 30/11/1974 | Desio | |
+| Andrea Perfetti | 10/09/1962 | Monza | |
+| Andrea Sala | 09/06/1977 | Desio | |
+| Angela Ines Vegro | 10/04/1961 | Milano | |
+| Armando Melfi | 07/01/1961 | San Martino d’Agri (PZ) | |
+| Claudio Colnaghi | 28/11/1988 | Monza | |
+| Fabio Volpentesta | 21/07/1972 | Seregno | |
+| Francesco Amedeo Alberto Nicolodi | 05/10/1967 | Desio | |
+| Franco Barbirato | 30/09/1957 | Desio | |
+| Isabella Barbara Marcella Gagliazzo | 20/03/1967 | Desio | |
+| Laura Santina Crisopulli | 08/03/1961 | Bova Marina (RC) | |
+| Marco Arienti | 04/11/1982 | Desio | |
+| Matteo Sollami | 16/05/1978 | Desio | |
+| Nicolò D'Argenio | 18/05/1994 | Desio | |
+| Norma Cannizzo | 06/05/1974 | Enna | |
+| Patrizia Destro | 27/06/1953 | Cavarzare (VE) | |
+| Pieraldo Arienti | 25/04/1967 | Seregno | |
+| Prisca Van Deursen | 03/05/1961 | San Paolo Brasile | |
+| Renato Chiavegato | 05/11/1955 | Sorgà (VR) | |
+| Samantha Terraneo | 25/04/1975 | Desio | |
+| Sara Alessandrello | 12/10/1982 | Crotone | |
+| Sara Consonni | 29/07/1974 | Desio | |
+| Stefano Olmi | 04/01/1969 | Desio | |
+
+## Biografie Candidati
+
+### Alessandra Redaelli
+
+![alessandra redaelli](uniti-per-desio/alessandra-redaelli.jpg)
+
+### Andrea Perfetti
+
+![andrea perfetti](uniti-per-desio/andrea-perfetti.jpg)
+
+### Andrea Sala
+
+![andrea sala](uniti-per-desio/andrea-sala.jpg)
+
+### Angela Vegro
+
+![angela vegro](uniti-per-desio/angela-vegro.jpg)
+
+### Armando Melfi
+
+![armando melfi](uniti-per-desio/armando-melfi.jpg)
+
+### Claudio Colnaghi
+
+![claudio colnaghi](uniti-per-desio/claudio-colnaghi.jpg)
+
+### Fabio Volpentesta
+
+![fabio volpentesta](uniti-per-desio/fabio-volpentesta.jpg)
+
+### Franco Barbirato
+
+![franco barbirato](uniti-per-desio/franco-barbirato.jpg)
+
+### Franz Nicolodi
+
+![franz nicolodi](uniti-per-desio/franz-nicolodi.jpg)
+
+### Isabella Gagliazzo
+
+![isabella gagliazzo](uniti-per-desio/isabella-gagliazzo.jpg)
+
+### Laura Crisopulli
+
+![laura crisopulli](uniti-per-desio/laura-crisopulli.jpg)
+
+### Marco Arienti
+
+![marco arienti](uniti-per-desio/marco-arienti.jpg)
+
+### Matteo Sollami
+
+![matteo sollami](uniti-per-desio/matteo-sollami.jpg)
+
+### Nicolò D'Argenio
+
+![nicolo dargenio](uniti-per-desio/nicolo-dargenio.jpg)
+
+### Norma Cannizzo
+
+![norma cannizzo](uniti-per-desio/norma-cannizzo.jpg)
+
+### Patrizia Destro
+
+![patrizia destro](uniti-per-desio/patrizia-destro.jpg)
+
+### Pieraldo Arienti
+
+![pieraldo arienti](uniti-per-desio/pieraldo-arienti.jpg)
+
+### Prisca Van Deursen
+
+![prisca van deursen](uniti-per-desio/prisca-van-deursen.jpg)
+
+### Renato Chiavegato
+
+![renato chiavegato](uniti-per-desio/renato-chiavegato.jpg)
+
+### Samantha Terraneo
+
+![samantha terraneo](uniti-per-desio/samantha-terraneo.jpg)
+
+### Sara Alessandrello
+
+![sara alessandrello](uniti-per-desio/sara-alessandrello.jpg)
+
+### Sara Consonni
+
+![sara consonni](uniti-per-desio/sara-consonni.jpg)
+
+### Stefano Olmi
+
+![stefano olmi](uniti-per-desio/stefano-olmi.jpg)
 
 ## Programma
 
