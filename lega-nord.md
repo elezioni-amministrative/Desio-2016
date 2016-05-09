@@ -7,6 +7,7 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 - [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
 - [Programma](coalizione-di-centro-destra.md#programma)
 - [Lista Candidati](#lista-candidati)
+- [Link e Risorse](#link-e-risorse)
 
 ## Lista Candidati
 
@@ -36,3 +37,6 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 | Sangalli Riccardo Anselmo | studente | 12/12/1994 |
 | Terenghi Martino | pensionato | 01/04/1932 |
 | Trisconi Marco | taxista | 03/10/1963 |
+
+## Link e Risorse
+
