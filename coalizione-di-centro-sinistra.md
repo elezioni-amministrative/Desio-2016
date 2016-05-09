@@ -1,10 +1,21 @@
-# Roberto Corti
+# Coalizione di Centro Sinistra
 
-Programma politico del candidato sindaco Roberto Corti e delle forze politiche che lo sostengono:
+- [Candidato Sindaco](#roberto-corti-candidato-sindado)
+- [Programma](#programma)
+
+## Forze Politiche della Coalizione
 
 - [Partito Democratico](partito-democratico.md)
 - [Desio Viva](desio-viva.md)
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
+
+## Roberto Corti (candidato sindaco)
+
+> TODO
+
+## Programma
+
+> TODO
 
 DESIO 2021: una concreta visione di futuro
 
