@@ -6,12 +6,26 @@ Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](ri
 
 Lista, in ordine alfabetico, delle forze politiche:
 
+- [Desio Al Centro](desio-al-centro.md)
 - [Desio Viva](desio-viva.md)
-- [Lega Nord](lega-nord.md)
 - [Forza Italia](forza-italia.md)
 - [La Nostra Desio](la-nostra-desio.md)
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
+- [Lega Nord](lega-nord.md)
 - [Lista Civica Per Desio](lista-civica-per-desio.md)
 - [Movimento 5 Stelle](movimento-5-stelle.md)
 - [Partito Democratico](partito-democratico.md)
 - [Uniti Per Desio](uniti-per-desio.md)
+
+## Coalizioni
+
+- [Coalizione di Centro Destra](coalizione-di-centro-destra.md)
+  - [Desio Al Centro](desio-al-centro.md)
+  - [Forza Italia Desio](forza-italia.md)
+  - [Fratelli D'Italia - Alleanza Nazionale](fratelli-ditalia-alleanza-nazionale.md)
+  - [La Nostra Desio](la-nostra-desio.md)
+  - [Lega Nord](lega-nord.md)
+- [Coalizione di Centro Sinistra](coalizione-di-centro-sinistra.md)
+  - [Desio Viva](desio-viva.md)
+  - [La Sinistra Per Desio](la-sinistra-per-desio.md)
+  - [Partito Democratico](partito-democratico.md)
