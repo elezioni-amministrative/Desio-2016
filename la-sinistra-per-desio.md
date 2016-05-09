@@ -1,21 +1,29 @@
 # La Sinistra Per Desio
 
-## Lista dei candidati
+Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-centro-sinistra.md) che supporta il candidato sindaco [Roberto Corti](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco).
 
-1. BORGONOVO GIOVANNI DARIO 
-2. BRILLO LUDMILLA 
-3. COMPOSTELLA SIMONA
-4. CONFALONIERI MAURO 
-5. DONAT CATTIN SIMONE 
-6. EDALINI DANIELE 
-7. FRIGHI ALESSANDRO 
-8. GIUSSANI PATRIZIA ALESSANDRA 
-9. GIUSTO FILIPPINO 
-10. MARIANI SERGIO 
-11. MAZZEO CIRIACO GIUSEPPE Detto PINO 
-12. MIGLIACCIO ANNA 
-13. PERSEO GIUSEPPE 
-14. PIUMATTI MARIA ANGELA Detta IAIA 
-15. PREVITI CLAUDIA
-16. URSO ELISABETTA 
-17. VINCENZI GERARDO Detto GERRI
+- [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
+- [Programma](coalizione-di-centro-sinistra.md#programma)
+- [Lista Candidati](#lista-candidati)
+
+## Lista Candidati
+
+| Nome |
+|------|
+| BORGONOVO GIOVANNI DARIO |
+| BRILLO LUDMILLA |
+| COMPOSTELLA SIMONA|
+| CONFALONIERI MAURO |
+| DONAT CATTIN SIMONE |
+| EDALINI DANIELE |
+| FRIGHI ALESSANDRO |
+| GIUSSANI PATRIZIA ALESSANDRA |
+| GIUSTO FILIPPINO |
+| MARIANI SERGIO |
+| MAZZEO CIRIACO GIUSEPPE Detto PINO |
+| MIGLIACCIO ANNA |
+| PERSEO GIUSEPPE |
+| PIUMATTI MARIA ANGELA Detta IAIA |
+| PREVITI CLAUDIA|
+| URSO ELISABETTA |
+| VINCENZI GERARDO Detto GERRI|
