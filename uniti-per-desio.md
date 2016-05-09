@@ -1,5 +1,7 @@
 # Uniti Per Desio
 
+![Logo Uniti Per Desio](uniti-per-desio/logo.jpg)
+
 ## Paolo Smorta (Candidato Sindaco)
 
 Paolo Smorta 24/07/1963 Gela (CL)
