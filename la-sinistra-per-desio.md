@@ -5,6 +5,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 - [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
 - [Programma](coalizione-di-centro-sinistra.md#programma)
 - [Lista Candidati](#lista-candidati)
+- [Link e Risorse](#link-e-risorse)
 
 ## Lista Candidati
 
@@ -27,3 +28,5 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | PREVITI CLAUDIA|
 | URSO ELISABETTA |
 | VINCENZI GERARDO Detto GERRI|
+
+## Link e Risorse
