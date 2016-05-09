@@ -1,5 +1,11 @@
 # Lista Civica Per Desio
 
+- [Candidato Sindaco](#simone-gargiulo-candidato-sindaco)
+- [Lista Candidati](#lista-candidati)
+- [Biografie Candidati](#biografie-candidati)
+- [Programma](#programma)
+- [Link e Risorse](#link-e-risorse)
+
 ### Simone Gargiulo (candidato sindaco)
 
 ![simone-gargiulo](lista-civica-per-desio/simone-gargiulo.jpg)
@@ -36,6 +42,8 @@ Ho deciso di proseguire a fare politica a livello locale con una lista civica po
 | simone biscaro | ![simone-biscaro](lista-civica-per-desio/simone-biscaro.jpg) |
 | simone valtorta | ![simone-valtorta](lista-civica-per-desio/simone-valtorta.jpg) |
 | valerio barbirato | ![valerio-barbirato](lista-civica-per-desio/valerio-barbirato.jpg) |
+
+## Biografie Candidati
 
 ### ANDREA CIVIERO
 
@@ -343,6 +351,6 @@ percorsi sicuri ed illuminati e rendendole adeguatamente attrezzate.
 8. promozione di competizioni ed manifestazioni sportive non competitive e comunque di eventi utili, anche al fine di pubblicizzare le società sportive presenti sul territorio, sia “una tantum” che periodicamente, anche coordinate con eventi di altra natura (come i mercoledì sera estivi).
 
 
-## Fonte
+## Link e Risorse
 
 [Post Facebook](https://www.facebook.com/media/set/?set=a.605400952961345.1073741833.316836751817768&type=3)
