@@ -49,7 +49,7 @@ Ho deciso di proseguire a fare politica a livello locale con una lista civica po
 
 ![andrea-civiero](lista-civica-per-desio/andrea-civiero.jpg)
 
-Nato a Carate B.za il 30/01/76
+Nato a Carate B.za il 30/01/76.
 
 Ottico, sposato, due figli.
 
@@ -57,41 +57,47 @@ Ottico, sposato, due figli.
 
 ![donatella-sala](lista-civica-per-desio/donatella-sala.jpg)
 
-Nata a Monza il 26/08/1967
+Nata a Monza il 26/08/1967.
 
 Impiegata in una storica azienda desiana con mansioni amministrative.
+
 Mi dedico da anni al volontariato. 
+
 Mi sono impegnata nella lista civica perché da desiana vorrei che desio voltasse pagina con voglia di fare spendendosi PER la città e NON per personali mire politiche.
 
 ### GIORGIO RAMPI
 
 ![giorgio-rampi](lista-civica-per-desio/giorgio-rampi.jpg)
 
-nato a Desio il 02/01/1971
+Nato a Desio il 02/01/1971.
 
 Diplomato (ITC) al Collegio PIO XI di Desio e Laureato (Scienze Politiche e gestione delle Aziende) all'Università Cattolica del Sacro Cuore.
+
 Professione: Consulente settore "Commerciale e Marketing Internazionale" 
 
-Convivente, ho un figlio di 7 anni
+Convivente, ho un figlio di 7 anni.
 
 Passioni: da sempre sportivo (basket agonistico a Desio, Dive Master subacquea, Maratoneta amatoriale) e motociclista da sempre. 
 
-Ho deciso di entrare nella Lista Civica Per Desio perché deluso dall'attuale amministrazione e dalla politica dei partiti. Amo la mia città e ritengo, insieme agli altri membri della Lista, di avere idee e volontà perché Desio possa tornare ad essere bella ed essere un riferimento tra le città della Brianza...una città dove sia bello vivere
+Ho deciso di entrare nella Lista Civica Per Desio perché deluso dall'attuale amministrazione e dalla politica dei partiti. Amo la mia città e ritengo, insieme agli altri membri della Lista, di avere idee e volontà perché Desio possa tornare ad essere bella ed essere un riferimento tra le città della Brianza... una città dove sia bello vivere.
 
 ### LAURA LUCIDERA
 
 ![laura-lucidera](lista-civica-per-desio/laura-lucidera.jpg)
 
-Nata a Desio Il 17/10/1967 
+Nata a Desio Il 17/10/1967.
 
-sposata, con 2 figli Andrea e Jessica professione: assistente socio sanitario presso gli anziani ,svolgo il mio lavoro con tanto amore.
+Sposata, con 2 figli Andrea e Jessica
+
+Professione: assistente socio sanitario presso gli anziani, svolgo il mio lavoro con tanto amore.
+
 Ho scelto di aderire a questo progetto perché ho il desiderio che Desio possa cambiare, in meglio certamento con la collaborazione di tutti.
 
 ### LUCA BRIOSCHI
 
 ![luca-brioschi](lista-civica-per-desio/luca-brioschi.jpg)
 
-Nato a Desio il 30.10.1974
+Nato a Desio il 30/10/1974.
 
 Sposato, tre figli commerciante volontario da 23 anni nella Croce Rossa italiana.
 
@@ -99,49 +105,59 @@ Sposato, tre figli commerciante volontario da 23 anni nella Croce Rossa italiana
 
 ![luca-rampi](lista-civica-per-desio/luca-rampi.jpg)
 
-Nato a Milano il 7.6.1966
+Nato a Milano il 7.6.1966.
+
 Avvocato
+
 Sposato, 2 figli
 
 ### LUISA VILLA detta LUISELLA
 
 ![luisa-villa-detta-luisella](lista-civica-per-desio/luisa-villa-detta-luisella.jpg)
 
-Nata a Desio il 03 agosto 1951 
+Nata a Desio il 03 agosto 1951.
 
 Coniugata, 1 figlio. 
+
 Coordinatrice della Scuola dell'infanzia Sacro Cuore.
-Sto con la Lista Civica PER Desio perché occuparsi SOLO di DESIO, sento sia diventata una indispensabile ragione per farlo
+
+Sto con la Lista Civica PER Desio perché occuparsi SOLO di DESIO, sento sia diventata una indispensabile ragione per farlo.
 
 ### MARGHERITA BURGIO
 
 ![margherita-burgio](lista-civica-per-desio/margherita-burgio.jpg)
 
-Nata a Desio il 16.3.1963
+Nata a Desio il 16.3.1963.
 
 Coniugata, con 3 figlie
+
 laureata
+
 casalinga
+
 Ho aderito per dare una mano e soprattutto una testa intelligente e seria alla nostra città.
 
 ### PAOLO PERRELLA
 
 ![paolo-perrella](lista-civica-per-desio/paolo-perrella.jpg)
 
-Nato a Monza il 26.2.1966
+Nato a Monza il 26.2.1966.
 
 50 anni sposato 1 figlio, dirigente d'azienda.
+
 Ho aderito alla lista civica perchè non voglio più soltanto lamentarmi e firmare deleghe in bianco ai partiti ma dare un contributo in prima persona.
 
 ### ROBERTO GUENZATI
 
 ![roberto-guenzati](lista-civica-per-desio/roberto-guenzati.jpg)
 
-nato a Desio il 18.9.1954
+Nato a Desio il 18.9.1954.
 
 Coniugato, 1 figlia
-Operaio 
-Motivo iscrizione lista civica: unica alternativa per provare a cambiare Desio
+
+Operaio
+
+Motivo iscrizione lista civica: unica alternativa per provare a cambiare Desio.
 
 ### SIMONE VALTORTA
 
@@ -151,7 +167,7 @@ Nato a Desio il 18 giugno 1974.
 
 Laureato in Lettere Moderne (indirizzo Storico-Medievale) all’Università Cattolica di Milano con la tesi Amico e Amelio nell’agiografia medievale il 3 ottobre 2006; il 15 dicembre 2012 ho conseguito una seconda laurea, in Scienze Religiose (indirizzo Pedagogico-Didattico) presso l’Istituto Superiore di Scienze Religiose di Milano, con una tesi su La nozione cristiana di creazione.
 
-Attualmente sono insegnante di sostegno presso una Scuola Primaria di Paderno 
+Attualmente sono insegnante di sostegno presso una Scuola Primaria di Paderno.
 
 Ho pubblicato i libri per bambini Il giullare di Dio (Edizioni dell’Immacolata, 2004, ristampato nel 2010), Il sorriso di una Madre (Edizioni dell’Immacolata, 2005), I racconti del saggio gufo (La Riflessione, 2008), Nonno, mi racconti la Bibbia? (Gruppo Editore L’Espresso, 2014, ristampato lo stesso anno) e il romanzo per ragazzi La spada nella roccia (Gruppo Editore L’Espresso, 2008).
 
