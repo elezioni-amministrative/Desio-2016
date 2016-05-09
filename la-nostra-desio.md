@@ -1,5 +1,13 @@
 # La Nostra Desio
 
+Forza politica appartenente alla [coalizione di centro destra](coalizione-di-centro-destra.md) che supporta il candidato sindaco [Massimo Zanello](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco).
+
+- [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
+- [Programma (della coalizione)](coalizione-di-centro-destra.md#programma)
+- [Programma (della lista)](#programma)
+- [Lista Candidati](#lista-candidati)
+- [Link e Risorse](#link-e-risorse)
+
 ## Programma
 
 LA NOSTRA DESIO non è un partito, ma una lista civica, creata da un gruppo di persone normali che scende in campo per il bene comune. Cittadini con l'obiettivo di dar voce ai cittadini. 
@@ -68,6 +76,10 @@ Incentivare sport ed attività per tutte le varie fasce di età, come rispetto d
 5. Promozione di corsi tenuti da esperti, all'interno di palestre comunali e aree verdi (es. passeggiate)
 6. Promozione di eventi e camp sportivi di vario genere
 
-## Fonte
+## Lista Candidati
 
-Importata dal [post Facebook](https://www.facebook.com/groups/635250689889117/permalink/1010104575737058/).
+TBD
+
+## Link e Risorse
+
+Programma importato dal [post Facebook](https://www.facebook.com/groups/635250689889117/permalink/1010104575737058/).
