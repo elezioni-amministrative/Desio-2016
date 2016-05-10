@@ -1,5 +1,12 @@
 # Forza Italia
 
+Forza politica appartenente alla [coalizione di centro destra](coalizione-di-centro-destra.md) che supporta il candidato sindaco [Massimo Zanello](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco).
+
+- [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
+- [Programma](coalizione-di-centro-destra.md#programma)
+- [Lista Candidati](#lista-candidati)
+- [Link e Risorse](#link-e-risorse)
+
 ## Lista Candidati
 
 | Nome | Comune di nascita | Data di nascita |
@@ -29,6 +36,6 @@
 | TRAMARIN ROBERTO | DESIO | 10/12/1964 |
 | TULIMELLO MATTEO | DESIO | 06/06/1995 |
 
-## Fonte
+## Link e Risorse
 
 Christian Marrone, Vice coordinatore Forza Italia Desio.
