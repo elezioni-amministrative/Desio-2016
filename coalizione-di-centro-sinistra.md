@@ -12,7 +12,21 @@
 
 ## Roberto Corti (candidato sindaco)
 
-> TODO
+### Intervista 1
+
+**Quali sono le sue priorità per la città?**
+
+> «Noi dobbiamo proseguire con il lavoro svolto sul tema dell’ambiente e del territorio, valorizzando gli spazi aperti e creando un sistema di piste ciclopedonali che si colleghino con il centro. Andando poi a riqualificare lo stesso centro e gli assi della cultura e dello sport, e quello del commercio. Inoltre dobbiamo insistere sul tema della partecipazione e del coinvolgimento dei cittadini, che abbiamo avviato in questi anni: partecipare significa per ogni persona essere sempre più parte della comunità e serve anche a quel rispetto della legalità che tanto ci sta a cuore».
+
+**Quale sarebbe il primo atto ufficiale da sindaco?**
+
+> «Nel mio caso, non ci sarà nessun atto simbolico visto che sarebbe una rielezione. Andremmo a proseguire il cammino intrapreso, all’insegna della concretezza. Se proprio devo pensare a un atto specifico, mi piacerebbe che si potesse siglare il piano di sistemazione del centro storico, per il quale stiamo lavorando». 
+
+**Perché i cittadini dovrebbero votare per lei?**
+
+> «Perché conosco Desio come le mie tasche ed il cambiamento che assieme abbiamo avviato, nei prossimi cinque anni migliorerà ancora di più il suo volto ed il nostro modo di vivere. In questi anni, poi, abbiamo creato un tessuto di relazioni e collaborazioni che nessun altro dei candidati può avere e c’è un indubbio valore nella continuità. Con un altro sindaco, la città perderebbe di nuovo tempo, come successo in passato. Desio non se lo può permettere: deve guardare al futuro, secondo il percorso che abbiamo delineato».
+
+[Fonte](http://www.ilgiorno.it/monza-brianza/desio-candidati-sindaco-1.2139136)
 
 ## Programma
 
