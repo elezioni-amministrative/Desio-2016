@@ -22,6 +22,7 @@ Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](ri
 | Candidato | Lista/Coalizione |
 |-----------|------------------|
 | [Massimo Zanello](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco) | [Coalizione di Centro Destra](coalizione-di-centro-destra.md) |
+| [Paolo Smorta](uniti-per-desio.md#paolo-smorta-candidato-sindaco) | [Uniti Per Desio](uniti-per-desio.md) |
 | [Roberto Corti](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco) | [Coalizione di Centro Sinistra](coalizione-di-centro-sinistra.md) |
 | [Sara Montrasio](movimento-5-stelle.md#sara-montrasio-candidato-sindaco) | [Movimento 5 Stelle](movimento-5-stelle.md) |
 | [Simone Gargiulo](lista-civica-per-desio.md#simone-gargiulo-candidato-sindaco) | [Lista Civica Per Desio](lista-civica-per-desio.md) |
