@@ -39,6 +39,8 @@ Da luglio 2006 ad aprile 2010 sono stato Assessore alle Culture, Identità e Aut
 
 > «Perché è l’unico modo per far ripartire Desio in un contesto di più ampio respiro. La città è rimasta uguale a cinque anni fa, anzi è regredita e non è al passo nemmeno delle città limitrofe: basta guardare il valore delle case, che qui è inferiore a Seregno, Cesano e Lissone. Il motivo è chiaro. Desio è una città che ha perso ogni attrattività. Deve riprendersi il suo ruolo chiave, insieme alle forze sane della popolazione, che sono tante». 
 
+[Fonte](http://www.ilgiorno.it/monza-brianza/desio-candidati-sindaco-1.2139136)
+
 ## Programma
 
 In questo difficile frangente per la nostra comunità due sono i rischi: da una parte lo smarrimento, la delusione e quindi la fuga e il disimpegno; dall'altra il lento scivolamento delle menti e delle volontà verso il pensiero unico.
