@@ -20,6 +20,22 @@ Mai stato iscritto ad un partito, mi sono avvicinato alla politica con la lista 
 Nel 2011 con altri amici abbiamo deciso di creare questa Lista Civica che oggi mi onoro di rappresentare quale candidato Sindaco.
 Ho deciso di proseguire a fare politica a livello locale con una lista civica poiché è oggettivamente l'unico modo (sperando gli elettori vogliono metterci alla prova) di cambiare veramente e poter amministrare in tutta serenità senza l'incombenza dei partiti e delle loro dirigenze che tante priorità hanno tranne il benessere delle singole Città e dei loro cittadini.
 
+## Intervista 1
+
+**Quali sono le priorità per la città?**
+
+> «Diciamo che sintetizzando al massimo il nostro programma elettorale direi che occorre mettere i cittadini al centro al posto dei partiti; occorrono più investimenti in infrastrutture e sicurezza e bisogna diminuire la spesa corrente. La sicurezza, in particolare, è e deve essere una priorità dell’amministrazione di una Città come Desio affinché i cittadini e le loro famiglie possano ritornare a vivere appieno Desio in tutta serenità. Questa è un’esigenza che la cittadinanza ha percepito come fortemente trascurata dall’amministrazione fino ad oggi in carica. Poi, noi puntiamo molto su una illuminazione pubblica diffusa, una bella zona pedonale in centro, la Torre Addamiano finita e dedicata a un bel progetto».
+
+**Quale sarebbe il suo primo atto ufficiale da sindaco?**
+
+> «Incontrerei per conoscerle tutte le persone che lavorano per il Comune, dipendenti, dirigenti e via dicendo, al fine di stabilire il giusto rapporto di sintonia che è possibile solo con la conoscenza reciproca ed il rispeddo delle posizioni e competenze di ciascuno. Subito dopo, incontrerei i comitati di quartiere e le associazioni per scrivere insieme la liste delle priorità vere di questa città ed iniziare a indirizzare su di esse le risorse del bilancio».
+
+**Perché i cittadini dovrebbero votare per lei?**
+
+> «I desiani devono votare per me perché non sono un politico di professione, ma un cittadino che ama Desio, sa quello che le serve ed è preparato ad amministrarla. Sono pronto ad ascoltare, ho un gruppo di persone preparate, motivate e la sola ambizione che ho è quella di fare ciò che serve a Desio senza badare ai «colori» ma solo alle soluzioni».
+
+[Fonte](http://www.ilgiorno.it/monza-brianza/desio-candidati-sindaco-1.2139136)
+
 ## Lista Candidati
 
 | Nome | Foto | Comune di nascita | Data di nascita | Biografia |
