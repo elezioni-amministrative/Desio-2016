@@ -12,6 +12,22 @@
 
 - [Facebook](https://www.facebook.com/montrasiodesio)
 
+### Intervista 1
+
+**Quali priorità per la città?Sara Montrasio**
+
+> «C’è una serie di cose sulle quali ci possiamo attivare da subito: rendere gratuiti i parcheggi ai disabili, visto che ora sulle strisce blu sono costretti a pagare. Scegliere almeno un intervento per quartiere tra quelli che i cittadini riterranno più opportuni, piccole cose che diano già un esempio del lavoro più ampio che vorremmo fare. Ultimo, ma non per importanza: avviare subito lo studio epidemiologico sugli effetti del forno inceneritore sulla salute dei cittadini. È il terreno su cui il Movimento 5 Stelle di Desio è nato e si batte da sempre: dalla gestione pulita dei rifiuti, senza incenerimento, allo stop a Pedemontana. Non è ideologia: vogliamo vivere in un ambiente più pulito per difendere la salute di tutti. La prima cosa da fare su questo punto sarà, appunto, avviare lo studio epidemiologico nelle zone interessate dalla ricaduta dei fumi dell’inceneritore. Studio che abbiamo fortemente voluto e per la cui realizzazione ci siamo impegnati in consiglio comunale indirizzando con i nostri atti l’attuale amministrazione. Perché diciamo no all’incenerimento? Perché è pericoloso per la salute e inefficiente economicamente».
+
+**Quale sarebbe il suo primo atto da sindaco?**
+
+> «Un piccolo progetto per ogni quartiere, concordato con i cittadini, come detto. E contemporaneamente proporrei la modifica del regolamento del consiglio comunale per renderlo più produttivo». 
+
+**Perché i cittadini dovrebbero votarla?**
+
+> «Perché il Movimento 5 Stelle ha le mani libere. Gli unici finanziatori che abbiamo sono le nostre tasche e i cittadini che ci sostengono con le loro libere offerte. E i cittadini sono gli unici a cui rispondiamo». 
+
+[Fonte](http://www.ilgiorno.it/monza-brianza/desio-candidati-sindaco-1.2139136)
+
 ## Lista candidati
 
 | Nome | Data di nascita | Biografia |
