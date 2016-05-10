@@ -40,7 +40,7 @@ Paolo Smorta 24/07/1963 Gela (CL)
 | Angela Ines Vegro | 10/04/1961 | Milano | |
 | Armando Melfi | 07/01/1961 | San Martino d’Agri (PZ) | |
 | Claudio Colnaghi | 28/11/1988 | Monza | |
-| Fabio Volpentesta | 21/07/1972 | Seregno | |
+| Fabio Volpentesta | 21/07/1962 | Seregno | |
 | Francesco Amedeo Alberto Nicolodi | 05/10/1967 | Desio | |
 | Franco Barbirato | 30/09/1957 | Desio | |
 | Isabella Barbara Marcella Gagliazzo | 20/03/1967 | Desio | |
