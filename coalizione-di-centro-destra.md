@@ -25,6 +25,20 @@ Candidato nuovamente alle elezioni regionali del 2005 nella circoscrizione di Mo
 
 Da luglio 2006 ad aprile 2010 sono stato Assessore alle Culture, Identità e Autonomie della Lombardia. Da maggio 2010 ricopro la carica di Sottosegretario del Presidente della Regione Lombardia con delega al cinema.
 
+### Intervista 1
+
+**Quali sono le priorità per la città?**
+
+> «Le priorità non sono poche. C’è quella delle grandi incompiute e degli edifici abbandonati. C’è la necessità di un rilancio della città che parta dal centro - perché non è possibile assistere alla morìa dei negozi e alla gente che cade sulle rotaie del tram - senza dimenticare i quartieri. C’è la necessità di valorizzare il patrimonio storico e culturale di Desio come merita: penso a Villa Tittoni, che proporremo di far diventare patrimonio dell’Unesco, e alla figura del Papa, che merita di essere valorizzata. Per tutto questo Desio deve entrare in un contesto più grande, deve diventare un polo di attrazione per persone anche dai comuni limitrofi e non solo».
+
+**Quale sarebbe il suo primo atto ufficiale da sindaco?**
+
+> «Avvierò un profondo monitoraggio del patrimonio del Comune, per capire come valorizzarlo e come rilanciarlo, e del patrimonio dismesso, penso alla Torre, al Centro Stile, a tutte quelle realtà immobiliari che hanno bisogno di una rinascita. Essendo percorsi lunghi, bisogna iniziare subito e con grande determinazione».
+
+**Perché i cittadini dovrebbero votare per lei?**
+
+> «Perché è l’unico modo per far ripartire Desio in un contesto di più ampio respiro. La città è rimasta uguale a cinque anni fa, anzi è regredita e non è al passo nemmeno delle città limitrofe: basta guardare il valore delle case, che qui è inferiore a Seregno, Cesano e Lissone. Il motivo è chiaro. Desio è una città che ha perso ogni attrattività. Deve riprendersi il suo ruolo chiave, insieme alle forze sane della popolazione, che sono tante». 
+
 ## Programma
 
 In questo difficile frangente per la nostra comunità due sono i rischi: da una parte lo smarrimento, la delusione e quindi la fuga e il disimpegno; dall'altra il lento scivolamento delle menti e delle volontà verso il pensiero unico.
