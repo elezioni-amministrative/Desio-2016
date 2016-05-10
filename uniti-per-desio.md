@@ -8,6 +8,22 @@
 
 Paolo Smorta 24/07/1963 Gela (CL)
 
+### Intervista 1
+
+**Quali sono le priorità per la città?**
+
+> «La priorità assoluta è quella di far ripartire Desio, con degli interventi immediati di riqualificazione degli edifici pubblici e privati abbandonati, degradati e dismessi. In città ce ne sono troppi (ndr l’ex casa di riposo di corso Italia, l’ex carcere, l’ex Agenzia delle Entrate ecc..) e non sono più tollerabili. Questo attiverà, a cascata, un circolo virtuoso sotto l’aspetto economico, con una serie di benefici per i cittadini, ma anche per gli imprenditori e i commercianti. E le entrate per il Comune potranno essere investite per la collettività. Poi bisogna trovare una soluzione per la Torre nell’area ex Autobianchi, noi delle idee le abbiamo».
+
+**Quale sarebbe il suo primo atto ufficiale da sindaco?**
+
+> «Sicuramente quello di far togliere i binari del tram che da troppi anni creano disagio e pericolo nell’asse centrale della città. Via le rotaie e spazio a una bella pista ciclabile, per dare un nuovo aspetto a tutto il centro». 
+
+**Perché i cittadini dovrebbero votare per lei?**
+
+> «Semplice: perché a differenza di tutti gli altri ho dimostrato in questi anni da assessore di saper fare tante cose e tutte di qualità, per il bene di Desio e dei desiani. Ho dimostrato di saperle fare a prescindere dalle risorse economiche e di non fermarmi mai di fronte ai problemi, trovando sempre la soluzione più adeguata. C’è un altro modo di fare politica, il nostro e solo il nostro. Senza tessere in tasca, senza cambiali da pagare, senza scheletri negli armadi, fuori dalle vecchie logiche dei partiti, e da quel cancro che sono le coalizioni «accozzaglia», per costruire insieme, Uniti per Desio, una città migliore». 
+
+[Fonte](http://www.ilgiorno.it/monza-brianza/desio-candidati-sindaco-1.2139136)
+
 ## Lista Candidati
 
 | Nome | Data di nascita | Comune di Nascita | Biografia |
