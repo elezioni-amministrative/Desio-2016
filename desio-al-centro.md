@@ -1,5 +1,7 @@
 # Desio Al Centro
 
+![Logo Desio Al Centro](desio-al-centro/logo.jpg)
+
 Forza politica appartenente alla [coalizione di centro destra](coalizione-di-centro-destra.md) che supporta il candidato sindaco [Massimo Zanello](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco).
 
 - [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
