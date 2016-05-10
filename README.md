@@ -4,7 +4,7 @@ Questo è un contenitore che vuole fornire ai cittadini desiani la possibilità 
 
 Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](richiesta-del-programma-elettorale.md) maggiori informazioni.
 
-Lista, in ordine alfabetico, delle forze politiche:
+## Liste
 
 - [Desio Al Centro](desio-al-centro.md)
 - [Desio Viva](desio-viva.md)
@@ -16,6 +16,15 @@ Lista, in ordine alfabetico, delle forze politiche:
 - [Movimento 5 Stelle](movimento-5-stelle.md)
 - [Partito Democratico](partito-democratico.md)
 - [Uniti Per Desio](uniti-per-desio.md)
+
+## Candidati sindaco
+
+| Candidato | Lista/Coalizione |
+|-----------|------------------|
+| [Massimo Zanello](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco) | [Coalizione di Centro Destra](coalizione-di-centro-destra.md) |
+| [Roberto Corti](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco) | [Coalizione di Centro Sinistra](coalizione-di-centro-sinistra.md) |
+| [Sara Montrasio](movimento-5-stelle.md#sara-montrasio-candidato-sindaco) | [Movimento 5 Stelle](movimento-5-stelle.md) |
+| [Simone Gargiulo](lista-civica-per-desio.md#simone-gargiulo-candidato-sindaco) | [Lista Civica Per Desio](lista-civica-per-desio.md) |
 
 ## Coalizioni
 
