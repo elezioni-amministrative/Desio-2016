@@ -2,6 +2,11 @@
 
 ![Logo Uniti Per Desio](uniti-per-desio/logo.jpg)
 
+- [Candidato Sindaco](#paolo-smorta-candidato-sindaco)
+- [Lista Candidati](#lista-candidati)
+- [Biografie Candidati](#biografie-candidati)
+- [Programma](#programma)
+
 ## Paolo Smorta (Candidato Sindaco)
 
 ![Paolo Smorta](uniti-per-desio/paolo-smorta.jpg)
