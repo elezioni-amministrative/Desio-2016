@@ -11,32 +11,31 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 
 ## Lista Candidati
 
-| Nome | Occupazione | Data di nascita |
-|------|-------------|-----------------|
-| Villa Andrea | funzionario di Regione Lombardia e consigliere comunale a Desio | 13/07/1980 |
-| Pozzi Stelio | imprenditore e Capogruppo in consiglio comunale a Desio | 27/01/1953 |
-| Perego Angelo detto Tino | operaio e Segretario della Sezione Lega Nord Desio | 01/08/1954 |
-| Motta Ettore | ex-dirigente di azienda e vice-segretario della Sezione Lega Nord Desio | 10/10/1947 |
-| Cambiaghi Martina | biotecnologa e responsabile Enti Locali della Sezione Lega Nord Desio | 27/08/1987 |
-| Criconia Franca | casalinga | 03/07/1954 |
-| Lo Re Greta | studentessa universitaria e responsabile Giovani Padani Sezione di Desio | 18/07/1995 |
-| Donghi Maria Grazia | ex-maestra di elementari | 16/12/1954 |
-| Arienti Lorenzo | artigiano e membro della Protezione Civili | 22/10/1953 |
-| Buzzi Giuseppe | pensionato | 11/08/1939 |
-| Chinaglia Maurizio | pensionato | 18/08/1953 |
-| Civati Rolando | operaio | 23/02/1951 |
-| De Ponti Alessandra | pensionata | 31/08/1943 |
-| Ghezzi Luca | studente | 15/12/1994 |
-| Lissoni Ersilia | musicista | 29/09/1961 |
-| Longhi Luca | informatico | 12/06/1975 |
-| Manzotti Mirella | pensionata | 11/05/1946 |
-| Motta Giuseppe | pensionato | 08/02/1944 |
-| Perego Erika | operaia | 15/061980 |
-| Premoli Roberto | impiegato | 26/09/1969 |
-| Rubin Fabrizio | ragioniere | 08/06/1973 |
-| Sangalli Riccardo Anselmo | studente | 12/12/1994 |
-| Terenghi Martino | pensionato | 01/04/1932 |
-| Trisconi Marco | taxista | 03/10/1963 |
+| Nome | Occupazione | Data di nascita | Foto |
+|------|-------------|-----------------|:----:|
+| Alessandra De Ponti | pensionata | 31/08/1943 | |
+| Andrea Villa | funzionario di Regione Lombardia e consigliere comunale a Desio | 13/07/1980 | ![foto](lega-nord/andrea-villa.jpg) |
+| Angelo Perego detto Tino | operaio e Segretario della Sezione Lega Nord Desio | 01/08/1954 | |
+| Erika Perego | operaia | 15/061980 | |
+| Ersilia Lissoni | musicista | 29/09/1961 | |
+| Ettore Motta | ex-dirigente di azienda e vice-segretario della Sezione Lega Nord Desio | 10/10/1947 | ![foto](lega-nord/ettore-motta.jpg) |
+| Fabrizio Rubin | ragioniere | 08/06/1973 | ![foto](lega-nord/fabrizio-rubin.jpg) |
+| Franca Criconia | casalinga | 03/07/1954 | |
+| Giuseppe Buzzi | pensionato | 11/08/1939 | |
+| Giuseppe Motta | pensionato | 08/02/1944 | |
+| Greta Lo Re | studentessa universitaria e responsabile Giovani Padani Sezione di Desio | 18/07/1995 | ![foto](lega-nord/greta-lo-re.jpg) |
+| Lorenzo Arienti | artigiano e membro della Protezione Civili | 22/10/1953 | ![foto](lega-nord/lorenzo-arienti.jpg) |
+| Luca Ghezzi | studente | 15/12/1994 | ![foto](lega-nord/luca-ghezzi.jpg) |
+| Luca Longhi | informatico | 12/06/1975 | ![foto](lega-nord/luca-longhi.jpg) |
+| Marco Trisconi | taxista | 03/10/1963 | |
+| Maria Grazia Donghi | ex-maestra di elementari | 16/12/1954 | |
+| Martina Cambiaghi | biotecnologa e responsabile Enti Locali della Sezione Lega Nord Desio | 27/08/1987 | ![foto](lega-nord/martina-cambiaghi.jpg) |
+| Martino Terenghi | pensionato | 01/04/1932 | |
+| Maurizio Chinaglia | pensionato | 18/08/1953 | ![foto](lega-nord/maurizio-chinaglia.jpg) |
+| Mirella Manzotti | pensionata | 11/05/1946 | |
+| Riccardo Anselmo Sangalli | studente | 12/12/1994 | ![foto](lega-nord/riccardo-anselmo-sangalli.jpg) |
+| Roberto Premoli | impiegato | 26/09/1969 | ![foto](lega-nord/roberto-premoli.jpg) |
+| Rolando Civati | operaio | 23/02/1951 | |
+| Stelio Pozzi | imprenditore e Capogruppo in consiglio comunale a Desio | 27/01/1953 | ![foto](lega-nord/stelio-pozzi.jpg) |
 
 ## Link e Risorse
-
