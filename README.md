@@ -9,6 +9,7 @@ Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](ri
 - [Desio Al Centro](desio-al-centro.md)
 - [Desio Viva](desio-viva.md)
 - [Forza Italia](forza-italia.md)
+- [Fratelli d'Italia - Alleanza Nazionale](fratelli-ditalia-alleanza-nazionale.md)
 - [La Nostra Desio](la-nostra-desio.md)
 - [La Sinistra Per Desio](la-sinistra-per-desio.md)
 - [Lega Nord](lega-nord.md)
