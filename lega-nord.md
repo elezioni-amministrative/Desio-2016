@@ -39,6 +39,23 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 
 ## Biografie
 
+### Luca Ghezzi
+
+![Foto Luca Ghezzi](lega-nord/luca-ghezzi.jpg)
+
+- **Occupazione**: Studente
+- **Data di nascita**: 15/12/1994
+
+Sono nato e cresciuto a Desio nel quartiere San Giovanni Battista. Dopo essermi diplomato in tecnica delle gestione aziendale presso il Collegio Arcivescovile Pio XI, ho intrapreso il corso di Scienze Politiche presso l’Università degli Studi di Milano.
+
+Amo lo sport e più in generale ogni attività fisica; da qualche tempo pratico il Viet Vo Dao, cioè l’Arte Marziale Vietnamita.
+
+Sono un grande appassionato di cinema.
+
+Credo nella Politica fondata sui valori, sul rispetto delle tradizioni e diretta verso l’interesse del cittadino, vero punto centrale di ogni comunità. Auspico che la Politica possa tornare a far parte della vita dei cittadini e in particolar modo mi auguro che i giovani rinnovino il loro interesse attivo verso i problemi della società.
+
+Immagino Desio come una città in grado di soddisfare tutti i principali bisogni dei cittadini: una città attiva, pulita, vivibile, ma soprattutto sicura.
+
 ### Maria Grazia Donghi
 
 ![Foto Maria Grazia Donghi](lega-nord/maria-grazia-donghi.jpg)
