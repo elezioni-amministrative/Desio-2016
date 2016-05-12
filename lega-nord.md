@@ -7,6 +7,7 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 - [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
 - [Programma](coalizione-di-centro-destra.md#programma)
 - [Lista Candidati](#lista-candidati)
+- [Biografie](#biografie)
 - [Link e Risorse](#link-e-risorse)
 
 ## Lista Candidati
@@ -25,7 +26,7 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 | Giuseppe Motta | pensionato | 08/02/1944 | | | |
 | Greta Lo Re | studentessa universitaria e responsabile Giovani Padani Sezione di Desio | 18/07/1995 | | ![foto](lega-nord/greta-lo-re.jpg) | |
 | Lorenzo Arienti | artigiano e membro della Protezione Civili | 22/10/1953 | | ![foto](lega-nord/lorenzo-arienti.jpg) | |
-| Luca Ghezzi | studente | 15/12/1994 | | ![foto](lega-nord/luca-ghezzi.jpg) | |
+| Luca Ghezzi | studente | 15/12/1994 | | ![foto](lega-nord/luca-ghezzi.jpg) | [:link:](#luca-ghezzi) |
 | Luca Longhi | informatico | 12/06/1975 | | ![foto](lega-nord/luca-longhi.jpg) | |
 | Maria Grazia Donghi | ex-maestra di elementari | 16/12/1954 | | ![Foto Maria Grazia Donghi](lega-nord/maria-grazia-donghi.jpg) | [:link:](#maria-grazia-donghi) |
 | Martina Cambiaghi | biotecnologa e responsabile Enti Locali della Sezione Lega Nord Desio | 27/08/1987 | | ![foto](lega-nord/martina-cambiaghi.jpg) | |
