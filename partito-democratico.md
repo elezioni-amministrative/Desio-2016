@@ -22,7 +22,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Giorgio Gerosa | segretario del PD Desio | | | | |
 | Jennifer Moro | assessore al Bilancio | | | | |
 | Jenny Arienti | consigliere comunale | | | | |
-| Marialuisa Ricchiuti | | | | | |
+| Marialuisa Ricchiuti | | | | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
 | Mariangela Ravasi | | | | | |
 | Marta Sicurello | | | | | |
 | Massimo Carota | | | | | |
