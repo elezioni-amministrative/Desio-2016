@@ -4,6 +4,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 
 - [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
 - [Programma](coalizione-di-centro-sinistra.md#programma)
+- [Biografie](#biografie)
 
 ## Lista candidati
 
@@ -33,6 +34,8 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Sara Perego | | | | | |
 | Stefano Sala | | | | | |
 | Vanda Berra | consigliere comunale | | | | |
+
+## Biografie
 
 ### Achille Taccagni
 
