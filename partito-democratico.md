@@ -64,6 +64,28 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 2. **Il rapporto fra gli studenti e l’Amministrazione.** Nei miei due anni da Rappresentante degli Studenti ho constatato la difficoltà di tenere rapporti con l’Amministrazione per la mancanza di un organo consultivo che coinvolgesse gli studenti superiori (il Consiglio Comunale dei Ragazzi termina con la scuola media). Per questo mi piacerebbe introdurre una Consulta Cittadina degli Studenti, composta dai Rappresentanti degli istituti superiori presenti sul territorio, da una rappresentanza degli universitari residenti a Desio eletta ad hoc, dall’Assessore alle Politiche Scolastiche e da quello alle Politiche Giovanili; la Consulta si ritroverebbe una volta al mese, col compito da una parte di sottoporre all’Amministrazione le esigenze degli studenti, le loro problematiche relative alla vita e allo studio sul territorio comunale nonché le loro proposte, e dall’altra parte di organizzare due “Giornate degli Studenti”: momenti, durante l’anno scolastico, di tipo ludico-aggregativo in cui gli studenti occupino uno spazio cittadino in autogestione per concerti, conferenze, esposizioni, eccetera. Un organo non solo consultivo quindi, ma con finalità integrative, di rinforzo dei rapporti fra gli studenti dei diversi istituti e di educazione al senso civico.
 3. **La Biblioteca.** Vorrei che fosse più a misura di studente, a partire dall’orario che va esteso, abolendo la pausa pranzo (ora dalle 12.15 alle 14.30) e portando più in là l’orario di chiusura (ora alle 18.15): nelle nuove fasce d’apertura non sarà necessario garantire costantemente il servizio prestiti, che potrà continuare ad essere effettuato nell’orario attuale, ma sarà sufficiente garantire l’apertura e l’accessibilità degli spazi da parte di chi li sfrutta per studiare. Inoltre, sarebbe auspicabile una revisione degli spazi che coinvolga attivamente, in fase di progettazione, gli studenti stessi, che non saranno la categoria maggiormente utilizzatrice del servizio prestiti ma certamente sono la presenza più importante all’interno della struttura.
 
+### Marialuisa Ricchiuti
+
+![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg)
+
+Ho deciso di candidarmi a consigliere comunale. Desio deve continuare nell’esperienza di risanamento e di progresso della giunta Corti, il cui motto è stato e sarà **Il Benessere del Cittadino**. Non si deve tornare indietro. Per questo sono convinta di poter dare un contributo attivo.
+
+Sposata con due figli, Alessandro e Federico, laureata in Mediazione linguistica e Culturale, vivo a Desio da oltre 30 anni. Provengo da una famiglia operaia, sempre solidale ed accogliente verso gli altri. Dai miei genitori ho appreso la cultura del lavoro, il senso della dignità e la curiosità per il mondo. Vivendo all’estero ho imparato che l’integrazione è sempre difficile ma è un processo tanto obbligato quanto arricchente. Tornata in Italia, dopo un periodo lavorativo ho continuato ad essere attiva negli organismi scolastici e nel volontariato presso l’Ente Nazionale Sordi di Monza e la Scuola di Italiano per Stranieri di Desio.
+
+La passione per la politica che da sempre mi caratterizza è di forte stimolo per questa mia candidatura **e mi vedrà impegnata, se eletta, in due ambiti che mi stanno particolarmente a cuore: la Cultura e l’Ambiente.**
+
+**A Desio si sono costituiti i Comitati di Quartiere**, per stimolare la partecipazione delle persone alla vita pubblica. **Nel mio quartiere – Spaccone –** ha iniziato la sua attività il Centro di Aggregazione dove vorrei realizzare una **Biblioteca Ambulante**: gli abitanti impossibilitati a recarsi alla Biblioteca Comunale, dopo aver prenotato i loro libri online, potranno ritirarli o restituirli direttamente qui. Vorrei dotare questo Centro di una connessione internet gratuita per offrire assistenza, con l’ausilio di un volontario civile, nei servizi online (es. prenotazioni sanitarie). Questo può divenire un progetto pilota da allargare anche in altri quartieri.
+
+**La cultura deve essere anche di proprietà delle persone disabili.** Propongo, per la programmazione del cinema all’aperto d’estate in Villa Tittoni, qualche film con sottotitoli o qualche spettacolo teatrale in Lingua dei Segni per le persone sorde! Così come QR-code predisposti anche per persone disabili! Iniziative importanti a costi limitati!
+
+**Con più di un milione di metri quadri salvati dal cemento**, Desio ha vinto il Premio Lombardia Urbanistica (2012), il Premio Legalità e Ambiente (2014) e piantumerà entro il 2016 **tredicimila alberi da foresta**. Proporrò di dotare le zone verdi dell’illuminazione necessaria per ridurre gli atti vandalici e, attraverso progetti da sviluppare con il **Consiglio Comunale dei Ragazzi e delle Ragazze**, elevare  il senso civico dei cittadini.
+
+**Sostengo la posizione della giunta di arrivare in futuro a Rifiuti Zero: i rifiuti devono diventare una risorsa.** Già in alcuni comuni, beni durevoli come mobili, vestiti, infissi, sanitari, elettrodomestici, vengono riparati, riutilizzati e venduti, diventando fonti di nuova occupazione. Sono scelte a difesa del pianeta!
+
+Con il Partito Democratico di Desio e nella coalizione che sostiene Roberto Corti questi temi trovano cittadinanza.
+
+Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO IL MIO COGNOME – continueremo su questa buona strada!
+
 ## Link e Risorse
 
 - [articolo web](http://www.pddesio.com/?p=836)
