@@ -14,21 +14,21 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Achille Taccagni | Studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/09/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
 | Alessio Alberti | | | | | |
 | Angelo Mariani | consigliere comunale | | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
-| Angelo Russi | consigliere comunale | | | | |
+| Angelo Russi | consigliere comunale | | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
 | Cristina Redi | attuale assessore alla Cultura | | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
-| Dario Hueller | consigliere comunale, architetto | | | | |
+| Dario Hueller | consigliere comunale, architetto | | | ![Foto Dario Hueller](partito-democratico/dario-hueller.jpg) | |
 | Emanuela La Greca | | | | ![Foto Emanuela La Greca](partito-democratico/emanuela-la-greca.jpg) | |
 | Emanuela Rocco | capogruppo in consiglio comunale | | | | |
 | Gabriele Degan | | | | | |
 | Giacomo Perini | | | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
-| Giorgio Gerosa | segretario del PD Desio | | | | |
+| Giorgio Gerosa | segretario del PD Desio | | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
 | Jennifer Moro | assessore al Bilancio | | | | |
 | Jenny Arienti | consigliere comunale | | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
 | Marialuisa Ricchiuti | | | | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
 | Mariangela Ravasi | | | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
 | Marta Sicurello | | | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
 | Massimo Carota | | | | | |
-| Nunzia Smiraglia | | | | | |
+| Nunzia Smiraglia | | | | ![Foto Nunzia Smiraglia](partito-democratico/nunzia-smiraglia.jpg) | |
 | Paola Buonvicino | | | | | |
 | Roberto Viganò | | | | | |
 | Rocco Cicchetti | consigliere comunale | | | | |
