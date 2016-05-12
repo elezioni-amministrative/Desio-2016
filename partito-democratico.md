@@ -4,6 +4,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 
 - [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
 - [Programma](coalizione-di-centro-sinistra.md#programma)
+- [Lista Candidati](#lista-candidati)
 - [Biografie](#biografie)
 
 ## Lista candidati
