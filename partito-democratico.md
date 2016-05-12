@@ -12,27 +12,27 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 |------|-------------|-----------------|------------------|:----:|:---------:|
 | Achille Taccagni | Studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/09/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
 | Alessio Alberti | | | | | |
-| Angelo Mariani | consigliere comunale | | | | |
+| Angelo Mariani | consigliere comunale | | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale | | | | |
-| Cristina Redi | attuale assessore alla Cultura | | | | |
+| Cristina Redi | attuale assessore alla Cultura | | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
 | Dario Hueller | consigliere comunale, architetto | | | | |
-| Emanuela La Greca | | | | | |
+| Emanuela La Greca | | | | ![Foto Emanuela La Greca](partito-democratico/emanuela-la-greca.jpg) | |
 | Emanuela Rocco | capogruppo in consiglio comunale | | | | |
 | Gabriele Degan | | | | | |
-| Giacomo Perini | | | | | |
+| Giacomo Perini | | | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
 | Giorgio Gerosa | segretario del PD Desio | | | | |
 | Jennifer Moro | assessore al Bilancio | | | | |
-| Jenny Arienti | consigliere comunale | | | | |
+| Jenny Arienti | consigliere comunale | | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
 | Marialuisa Ricchiuti | | | | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
-| Mariangela Ravasi | | | | | |
-| Marta Sicurello | | | | | |
+| Mariangela Ravasi | | | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
+| Marta Sicurello | | | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
 | Massimo Carota | | | | | |
 | Nunzia Smiraglia | | | | | |
 | Paola Buonvicino | | | | | |
 | Roberto Viganò | | | | | |
 | Rocco Cicchetti | consigliere comunale | | | | |
-| Sara Perego | | | | | |
-| Stefano Sala | | | | | |
+| Sara Perego | | | | ![Foto Sara Perego](partito-democratico/sara-perego.jpg) | |
+| Stefano Sala | | | | ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg) | |
 | Vanda Berra | consigliere comunale | | | | |
 
 ## Biografie
