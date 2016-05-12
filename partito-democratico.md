@@ -24,7 +24,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Giorgio Gerosa | segretario del PD Desio | | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
 | Jennifer Moro | assessore al Bilancio | | | | |
 | Jenny Arienti | consigliere comunale | | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
-| Marialuisa Ricchiuti | | | | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
+| Marialuisa Ricchiuti | volontaria | 21/11/1957 | Cormano (MI) | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
 | Mariangela Ravasi | | | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
 | Marta Sicurello | | | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
 | Massimo Carota | | | | | |
@@ -71,6 +71,10 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 ### Marialuisa Ricchiuti
 
 ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg)
+
+- **Occupazione**: Volontaria
+- **Data di nascita**: 21/11/1957
+- **Luogo di nascita**: Cormano (MI)
 
 Ho deciso di candidarmi a consigliere comunale. Desio deve continuare nell’esperienza di risanamento e di progresso della giunta Corti, il cui motto è stato e sarà **Il Benessere del Cittadino**. Non si deve tornare indietro. Per questo sono convinta di poter dare un contributo attivo.
 
