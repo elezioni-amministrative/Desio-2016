@@ -1,5 +1,7 @@
 # Partito Democratico
 
+![logo Partito Democratico](partito-democratico/logo.jpg)
+
 Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-centro-sinistra.md) che supporta il candidato sindaco [Roberto Corti](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco).
 
 - [Candidato Sindaco](coalizione-di-centro-sinistra.md#roberto-corti-candidato-sindaco)
