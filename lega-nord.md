@@ -7,6 +7,7 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 - [Candidato Sindaco](coalizione-di-centro-destra.md#massimo-zanello-candidato-sindaco)
 - [Programma](coalizione-di-centro-destra.md#programma)
 - [Lista Candidati](#lista-candidati)
+- [Biografie](#biografie)
 - [Link e Risorse](#link-e-risorse)
 
 ## Lista Candidati
@@ -25,7 +26,7 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 | Giuseppe Motta | pensionato | 08/02/1944 | | | |
 | Greta Lo Re | studentessa universitaria e responsabile Giovani Padani Sezione di Desio | 18/07/1995 | | ![foto](lega-nord/greta-lo-re.jpg) | |
 | Lorenzo Arienti | artigiano e membro della Protezione Civili | 22/10/1953 | | ![foto](lega-nord/lorenzo-arienti.jpg) | |
-| Luca Ghezzi | studente | 15/12/1994 | | ![foto](lega-nord/luca-ghezzi.jpg) | |
+| Luca Ghezzi | studente | 15/12/1994 | | ![foto](lega-nord/luca-ghezzi.jpg) | [:link:](#luca-ghezzi) |
 | Luca Longhi | informatico | 12/06/1975 | | ![foto](lega-nord/luca-longhi.jpg) | |
 | Maria Grazia Donghi | ex-maestra di elementari | 16/12/1954 | | ![Foto Maria Grazia Donghi](lega-nord/maria-grazia-donghi.jpg) | [:link:](#maria-grazia-donghi) |
 | Martina Cambiaghi | biotecnologa e responsabile Enti Locali della Sezione Lega Nord Desio | 27/08/1987 | | ![foto](lega-nord/martina-cambiaghi.jpg) | |
@@ -38,6 +39,23 @@ Forza politica appartenente alla [coalizione di centro destra](coalizione-di-cen
 | Stelio Pozzi | imprenditore e Capogruppo in consiglio comunale a Desio | 27/01/1953 | | ![foto](lega-nord/stelio-pozzi.jpg) | |
 
 ## Biografie
+
+### Luca Ghezzi
+
+![Foto Luca Ghezzi](lega-nord/luca-ghezzi.jpg)
+
+- **Occupazione**: Studente
+- **Data di nascita**: 15/12/1994
+
+Sono nato e cresciuto a Desio nel quartiere San Giovanni Battista. Dopo essermi diplomato in tecnica delle gestione aziendale presso il Collegio Arcivescovile Pio XI, ho intrapreso il corso di Scienze Politiche presso l’Università degli Studi di Milano.
+
+Amo lo sport e più in generale ogni attività fisica; da qualche tempo pratico il Viet Vo Dao, cioè l’Arte Marziale Vietnamita.
+
+Sono un grande appassionato di cinema.
+
+Credo nella Politica fondata sui valori, sul rispetto delle tradizioni e diretta verso l’interesse del cittadino, vero punto centrale di ogni comunità. Auspico che la Politica possa tornare a far parte della vita dei cittadini e in particolar modo mi auguro che i giovani rinnovino il loro interesse attivo verso i problemi della società.
+
+Immagino Desio come una città in grado di soddisfare tutti i principali bisogni dei cittadini: una città attiva, pulita, vivibile, ma soprattutto sicura.
 
 ### Maria Grazia Donghi
 
