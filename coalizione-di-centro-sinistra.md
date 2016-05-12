@@ -12,6 +12,8 @@
 
 ## Roberto Corti (candidato sindaco)
 
+![Roberto Corti](coalizione-di-centro-sinistra/roberto-corti.jpg)
+
 ### Intervista 1
 
 **Quali sono le sue priorità per la città?**
@@ -20,7 +22,7 @@
 
 **Quale sarebbe il primo atto ufficiale da sindaco?**
 
-> «Nel mio caso, non ci sarà nessun atto simbolico visto che sarebbe una rielezione. Andremmo a proseguire il cammino intrapreso, all’insegna della concretezza. Se proprio devo pensare a un atto specifico, mi piacerebbe che si potesse siglare il piano di sistemazione del centro storico, per il quale stiamo lavorando». 
+> «Nel mio caso, non ci sarà nessun atto simbolico visto che sarebbe una rielezione. Andremmo a proseguire il cammino intrapreso, all’insegna della concretezza. Se proprio devo pensare a un atto specifico, mi piacerebbe che si potesse siglare il piano di sistemazione del centro storico, per il quale stiamo lavorando».
 
 **Perché i cittadini dovrebbero votare per lei?**
 
@@ -429,7 +431,7 @@ Il territorio dell’alto milanese è uno dei territori più antropizzato d’It
 - Il progetto ha valutato la fattibilità di INTERVENTI DI MANTENIMENTO E DEFRAMMENTAZIONE DEI VARCHI, cercando di coordinare le azioni e i progetti previsti dai piani territoriali dei Comuni coinvolti nel progetto, in un ottica interdisciplinare e partecipata. Nei prossimi anni, anche attraverso la partecipazione ai
 bandi di Fondazione Cariplo, si verificherà la possibilità di realizzare gl’interventi previsti nello studio di Fattibilità Tecnica, anche per fasi successive.
 
-#### Le piazze: il nuovo salotto desiano 
+#### Le piazze: il nuovo salotto desiano
 
 Crocevia del nuovo modello di mobilità cittadina sarà il centro storico che, liberato dai binari della vecchia metro tramvia, sarà oggetto di un profondo cambiamento a livello estetico.
 
