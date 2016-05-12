@@ -24,7 +24,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Gabriele Degan | | | | | |
 | Giacomo Perini | | | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
 | Giorgio Gerosa | segretario del PD Desio | | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
-| Jennifer Moro | assessore al Bilancio | | | | |
+| Jennifer Moro | assessore al Bilancio | | | ![Foto Jennifer Moro](partito-democratico/jennifer-moro.jpg) | |
 | Jenny Arienti | consigliere comunale | | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
 | Marialuisa Ricchiuti | volontaria | 21/11/1957 | Cormano (MI) | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
 | Mariangela Ravasi | | | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
