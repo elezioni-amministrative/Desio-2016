@@ -16,7 +16,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Antonio D'Ovidio | Cupello | 13/02/1960 | ![Foto ](desio-viva/antonio-dovidio.jpg) | |
 | Claudio Arienti | Desio | 12/05/1976 | ![Foto ](desio-viva/claudio-arienti.jpg) | Impiegato |
 | Danilo Michele Zaggia | Godovic | 29/09/1942 | ![Foto ](desio-viva/danilo-michele-zaggia.jpg) | Pensionato |
-| Edoardo Sebastianelli | Desio | 08/05/1997 | ![Foto ](desio-viva/edoardo-sebastianelli.jpg) | Studente lavoratoer |
+| Edoardo Sebastianelli | Desio | 08/05/1997 | ![Foto ](desio-viva/edoardo-sebastianelli.jpg) | Studente lavoratore |
 | Francesco Chignoli | Vaprio D'Adda | 31/07/1943 | ![Foto ](desio-viva/francesco-chignoli.jpg) | |
 | Francesco Pasquali | Desio | 26/01/1977 | ![Foto ](desio-viva/francesco-pasquali.jpg) | Avvocato |
 | Giovanna Abile |  Lissone | 09/06/1954 | ![Foto ](desio-viva/giovanna-abile.jpg) | Insegnante |
