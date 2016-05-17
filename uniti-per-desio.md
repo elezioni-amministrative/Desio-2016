@@ -35,7 +35,7 @@ Paolo Smorta 24/07/1963 Gela (CL)
 |------|-----------------|-------------------|:---------:|
 | Adriano Giacinto Manzotti | 03/07/1938 | Desio | |
 | Alessandra Redaelli | 30/11/1974 | Desio | |
-| Andrea Perfetti | 10/09/1962 | Monza | |
+| Andrea Perfetti | 10/09/1972 | Monza | |
 | Andrea Sala | 09/06/1977 | Desio | |
 | Angela Ines Vegro | 10/04/1961 | Milano | |
 | Armando Melfi | 07/01/1961 | San Martino d’Agri (PZ) | |
