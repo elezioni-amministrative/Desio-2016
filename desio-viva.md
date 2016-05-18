@@ -25,7 +25,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Marco Beretta | Milano | 28/05/1974 | ![Foto Marco Beretta](desio-viva/marco-beretta.jpg) | Farmacista | [:link:](#marco-beretta) |
 | Maria Rosa Arienti | Desio | 24/06/1971 | ![Foto ](desio-viva/maria-rosa-arienti.jpg) | Insegnante | |
 | Maria Zaffino | Catanzaro | 01/11/1962 | ![Foto ](desio-viva/maria-zaffino.jpg) | Insegnante | |
-| Marzia Micozzi | Paderno Dugnano | 22/03/1965 | ![Foto ](desio-viva/marzia-micozzi.jpg) | | |
+| Marzia Micozzi | Paderno Dugnano | 22/03/1965 | | | |
 | Michele Notarangelo | Taranto | 24/09/1974 | ![Foto ](desio-viva/michele-notarangelo.jpg) | Impiegato | |
 | Paolo Luca Pesarin | Sesto San Giovanni | 27/08/1964 | ![Foto ](desio-viva/paolo-luca-pesarin.jpg) | | |
 | Patrizia Ciccotti | Desio | 19/02/1963 | ![Foto ](desio-viva/patrizia-ciccotti.jpg) | | |
