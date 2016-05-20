@@ -31,7 +31,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Patrizia Ciccotti | Desio | 19/02/1963 | ![Foto ](desio-viva/patrizia-ciccotti.jpg) | | |
 | Renato Arienti | Desio | 06/03/1934 | ![Foto ](desio-viva/renato-arienti.jpg) | Pensionato | |
 | Silvia Riva | Desio | 10/06/1972 | ![Foto ](desio-viva/silvia-riva.jpg) | | |
-| Simona Barlassina | Desio | 30/08/1983 | ![Foto ](desio-viva/simona-barlassina.jpg) | Impiegata | |
+| Simona Barlassina | Desio | 30/08/1983 | ![Foto ](desio-viva/simona-barlassina.jpg) | Impiegata | [:link:](#simona-barlassina) |
 | Stefano Bruno Guidotti | Carrara | 23/12/1961 | ![Foto ](desio-viva/stefano-bruno-guidotti.jpg) | Medico | |
 | Stefano Giacomelli | Tirano | 30/06/1976 | ![Foto ](desio-viva/stefano-giacomelli.jpg) | | |
 | Tiberio Strati | Como | 03/09/1972 | ![Foto ](desio-viva/tiberio-strati.jpg) | | |
@@ -53,3 +53,16 @@ Sono sposato, quattro figli, mi piace impegnarmi per migliorare città in cui vi
 Nella mia breve esperienza di consigliere comunale ho cercato di affrontare i problemi, confrontandomi sempre in maniera propositiva con gli altri, animato dal piacere che si ha nel ragionare con punti di vista differenti su una qualunque questione, cercando di prestare attenzione al punto di vista altrui, di affrontare le criticità, di assumere la responsabilità delle scelte fatte, argomentandole e cercando di spiegarle agli altri.
 
 Ho cercato di dare il massimo sia come tempo dedicato, per quanto compatibilmente con le esigenze familiari, sia come impegno e buona volontà che umilmente credo di poter dire di aver messo a disposizione. Spero di poter proseguire nel progetto forte di cambiamento della città iniziato da questa amministrazione, attraverso scelte di onestà, trasparenza, ragionevolezza ed allargamento della partecipazione; un percorso non sempre facile, ma certamente tracciato, di riscatto dal recente passato, a cui sono certo di aver contribuito insieme ad altri consiglieri comunali, sia di maggioranza che, a onor del vero, di opposizione.
+
+### Simona Barlassina
+
+![Foto Simona Barlassina](/desio-viva/simona-barlassina.jpg)
+
+- **Occupazione**: Impiegata
+- **Luogo di nascita**: Desio
+- **Data di nascita**: 30/08/1983
+
+Desiana dalla nascita, 32 anni, laureata in giurisprudenza, pendolare della linea calda Saronno Albairate Rho-Chiasso. Amo la Desio degli ultimi 5 anni. Ho scelto di comprare casa qui e di costruire insieme a mio marito la nostra famiglia. Voglio che Desio diventi un esempio di rispetto del territorio e dell'ambiente, di legalità, di attenzione alla persona, che si valorizzi mostrando le sue bellezze monumentali e umane a tutti.
+
+Mi candido perché credo fortemente che questo programma, in continuità con i 5 anni passati, sia L'UNICO ad andare in questa direzione.
+Nel mio piccolo, metto al servizio della città, accanto ai miei colleghi di lista, spirito civico e tempo che ho a disposizione per vivere meglio in una città ancora più bella.
