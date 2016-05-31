@@ -48,6 +48,8 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 - **Data di nascita**: 26/09/1994
 - **Luogo di nascita**: Desio
 
+[Video di presentazione](/partito-democratico/video/achille-taccagni.mp4)
+
 Abito a Desio, in Corso Italia, da quando sono nato, e in questa città ho compiuto tutti gli studi fino al diploma di maturità classica ottenuto nel 2012 presso il Liceo Ettore Majorana, dove per due anni ho ricoperto la carica di Rappresentante degli Studenti.
 
 In quel periodo ho cominciato ad interessarmi di politica locale, frequentando i consigli comunali e cercando di creare e mantenere rapporti diretti con l’Amministrazione in virtù del mio ruolo.
@@ -70,6 +72,26 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 2. **Il rapporto fra gli studenti e l’Amministrazione.** Nei miei due anni da Rappresentante degli Studenti ho constatato la difficoltà di tenere rapporti con l’Amministrazione per la mancanza di un organo consultivo che coinvolgesse gli studenti superiori (il Consiglio Comunale dei Ragazzi termina con la scuola media). Per questo mi piacerebbe introdurre una Consulta Cittadina degli Studenti, composta dai Rappresentanti degli istituti superiori presenti sul territorio, da una rappresentanza degli universitari residenti a Desio eletta ad hoc, dall’Assessore alle Politiche Scolastiche e da quello alle Politiche Giovanili; la Consulta si ritroverebbe una volta al mese, col compito da una parte di sottoporre all’Amministrazione le esigenze degli studenti, le loro problematiche relative alla vita e allo studio sul territorio comunale nonché le loro proposte, e dall’altra parte di organizzare due “Giornate degli Studenti”: momenti, durante l’anno scolastico, di tipo ludico-aggregativo in cui gli studenti occupino uno spazio cittadino in autogestione per concerti, conferenze, esposizioni, eccetera. Un organo non solo consultivo quindi, ma con finalità integrative, di rinforzo dei rapporti fra gli studenti dei diversi istituti e di educazione al senso civico.
 3. **La Biblioteca.** Vorrei che fosse più a misura di studente, a partire dall’orario che va esteso, abolendo la pausa pranzo (ora dalle 12.15 alle 14.30) e portando più in là l’orario di chiusura (ora alle 18.15): nelle nuove fasce d’apertura non sarà necessario garantire costantemente il servizio prestiti, che potrà continuare ad essere effettuato nell’orario attuale, ma sarà sufficiente garantire l’apertura e l’accessibilità degli spazi da parte di chi li sfrutta per studiare. Inoltre, sarebbe auspicabile una revisione degli spazi che coinvolga attivamente, in fase di progettazione, gli studenti stessi, che non saranno la categoria maggiormente utilizzatrice del servizio prestiti ma certamente sono la presenza più importante all’interno della struttura.
 
+### Alessio Alberti
+
+[Video di presentazione](/partito-democratico/video/alessio-alberti.mp4)
+
+### Dario Hueller
+
+![Foto Dario Hueller](partito-democratico/dario-hueller.jpg)
+
+- **Occupazione**: consigliere comunale, architetto
+
+[Video di presentazione](/partito-democratico/video/dario-hueller.mp4)
+
+### Giorgio Gerosa
+
+![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg)
+
+- **Occupazione**: segretario del PD Desio
+
+[Video di presentazione](/partito-democratico/video/giorgio-gerosa.mp4)
+
 ### Marialuisa Ricchiuti
 
 ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg)
@@ -77,6 +99,8 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 - **Occupazione**: Volontaria
 - **Data di nascita**: 21/11/1957
 - **Luogo di nascita**: Cormano (MI)
+
+[Video di presentazione](/partito-democratico/video/marialuisa-ricchiuti.mp4)
 
 Ho deciso di candidarmi a consigliere comunale. Desio deve continuare nell’esperienza di risanamento e di progresso della giunta Corti, il cui motto è stato e sarà **Il Benessere del Cittadino**. Non si deve tornare indietro. Per questo sono convinta di poter dare un contributo attivo.
 
@@ -95,6 +119,26 @@ La passione per la politica che da sempre mi caratterizza è di forte stimolo pe
 Con il Partito Democratico di Desio e nella coalizione che sostiene Roberto Corti questi temi trovano cittadinanza.
 
 Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO IL MIO COGNOME – continueremo su questa buona strada!
+
+### Sara Perego
+
+![Foto Sara Perego](partito-democratico/sara-perego.jpg)
+
+- **Occupazione**:
+- **Data di nascita**:
+- **Luogo di nascita**:
+
+[Video di presentazione](/partito-democratico/video/sara-perego.mp4)
+
+### Stefano Sala
+
+![Foto Stefano Sala](partito-democratico/stefano-sala.jpg)
+
+- **Occupazione**:
+- **Data di nascita**:
+- **Luogo di nascita**:
+
+[Video di presentazione](/partito-democratico/video/stefano-sala.mp4)
 
 ## Link e Risorse
 
