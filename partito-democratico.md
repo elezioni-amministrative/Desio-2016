@@ -14,7 +14,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Nome | Occupazione | Data di nascita | Luogo di nascita | Foto | Biografia |
 |------|-------------|-----------------|------------------|:----:|:---------:|
 | Achille Taccagni | studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
-| Alessio Alberti | studente universitario | | | | [:link:](#alessio-alberti) |
+| Alessio Alberti | studente universitario | | | ![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg) | [:link:](#alessio-alberti) |
 | Angelo Mariani | consigliere comunale | 26/3/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale, macellaio | 26/11/1953 | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
 | Cristina Redi | vicesindaco e assessore alla Cultura | 6/1/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
@@ -74,6 +74,8 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 ### Alessio Alberti
 
+![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg)
+
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936519129780616&id=236426113123258&__mref=message_bubble))
 
 Sono nato e cresciuto a Desio. Abito da sempre in zona Stazione. Ho frequentato illiceo scientifico Majorana a Desio e ora sono laureando in Economia e Diritto Internazionale all’Università degli Studi di Milano.
@@ -84,7 +86,7 @@ In questi cinque anni, e in particolare nei mesi passati, l’Amministrazione Co
 
 Da gennaio 2016 è entrato in vigore il nuovo piano parcheggi, che grazie alla creazione della ZPRU con pass per residenti e all’introduzione di soste a pagamento e a disco orario ha migliorato la situazione preesistente per i pendolari e soprattutto per noi abitanti del quartiere. Si potranno apportare migliorie se necessarie.
 
-La nuova pista ciclabile che dalla Stazione corre lungo via Tagliabue si inserisce in un progetto più ampio volto a favorire nell’intera città la mobilità ciclopedonale. In questo senso la prossima costruzione della Bicistazione lungo Viale della Stazione permetterà di risolvere l’annoso problema dei furti di biciclette per chi decide di recarsi a prendere il treno senza ricorrere all’automobile. 
+La nuova pista ciclabile che dalla Stazione corre lungo via Tagliabue si inserisce in un progetto più ampio volto a favorire nell’intera città la mobilità ciclopedonale. In questo senso la prossima costruzione della Bicistazione lungo Viale della Stazione permetterà di risolvere l’annoso problema dei furti di biciclette per chi decide di recarsi a prendere il treno senza ricorrere all’automobile.
 
 Grazie all’impegno di tanti fra noi cittadini del quartiere siamo riusciti a vincere i fondi (30mila €uro) messi a disposizione dall’Amministrazione con il Bilancio Partecipativo 2015: il progetto di videosorveglianza condivisa fra pubblico e privati permetterà di affrontare con maggiore efficacia e tempestività il problema della sicurezza, così tanto sentito soprattutto dai residenti di via Segantini e limitrofi.
 
