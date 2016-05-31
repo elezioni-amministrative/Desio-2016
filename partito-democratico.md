@@ -48,7 +48,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 - **Data di nascita**: 26/04/1994
 - **Luogo di nascita**: Desio
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/achille-taccagni.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/achille-taccagni.mp4) ([link facebook](https://m.facebook.com/story.php?story_fbid=936595443106318&id=236426113123258&__mref=message_bubble))
 
 Abito a Desio, in Corso Italia, da quando sono nato, e in questa città ho compiuto tutti gli studi fino al diploma di maturità classica ottenuto nel 2012 presso il Liceo Ettore Majorana, dove per due anni ho ricoperto la carica di Rappresentante degli Studenti.
 
@@ -74,7 +74,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 ### Alessio Alberti
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936519129780616&id=236426113123258&__mref=message_bubble))
 
 ### Dario Hueller
 
@@ -82,7 +82,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 - **Occupazione**: consigliere comunale, architetto
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/dario-hueller.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/dario-hueller.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936638299768699&id=236426113123258&__mref=message_bubble))
 
 ### Giorgio Gerosa
 
@@ -90,7 +90,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 - **Occupazione**: segretario del PD Desio
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/giorgio-gerosa.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/giorgio-gerosa.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936503636448832&id=236426113123258))
 
 ### Marialuisa Ricchiuti
 
@@ -100,7 +100,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 - **Data di nascita**: 21/11/1957
 - **Luogo di nascita**: Cormano (MI)
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/marialuisa-ricchiuti.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/marialuisa-ricchiuti.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936623049770224&id=236426113123258&__mref=message_bubble))
 
 Ho deciso di candidarmi a consigliere comunale. Desio deve continuare nell’esperienza di risanamento e di progresso della giunta Corti, il cui motto è stato e sarà **Il Benessere del Cittadino**. Non si deve tornare indietro. Per questo sono convinta di poter dare un contributo attivo.
 
@@ -128,7 +128,7 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 - **Data di nascita**:
 - **Luogo di nascita**:
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/sara-perego.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/sara-perego.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936532209779308&id=236426113123258&__mref=message_bubble))
 
 ### Stefano Sala
 
@@ -138,7 +138,7 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 - **Data di nascita**:
 - **Luogo di nascita**:
 
-[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/stefano-sala.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/stefano-sala.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936574333108429&id=236426113123258&__mref=message_bubble))
 
 ## Link e Risorse
 
