@@ -36,7 +36,7 @@ Paolo Smorta 24/07/1963 Gela (CL)
 | Adriano Giacinto Manzotti | 03/07/1938 | Desio | | |
 | Alessandra Redaelli | 30/11/1974 | Desio | | ![alessandra redaelli](uniti-per-desio/alessandra-redaelli.jpg) |
 | Andrea Perfetti | 10/09/1972 | Monza | | ![andrea perfetti](uniti-per-desio/andrea-perfetti.jpg) |
-| Andrea Sala | 09/06/1977 | Desio | | ![andrea sala](uniti-per-desio/andrea-sala.jpg) |
+| Andrea Sala | 09/06/1977 | Desio | [:link:](#andrea-sala) | ![andrea sala](uniti-per-desio/andrea-sala.jpg) |
 | Angela Ines Vegro | 10/04/1961 | Milano | | ![angela vegro](uniti-per-desio/angela-vegro.jpg) |
 | Armando Melfi | 07/01/1961 | San Martino d’Agri (PZ) | | ![armando melfi](uniti-per-desio/armando-melfi.jpg) |
 | Claudio Colnaghi | 28/11/1988 | Monza | | ![claudio colnaghi](uniti-per-desio/claudio-colnaghi.jpg) |
@@ -57,6 +57,25 @@ Paolo Smorta 24/07/1963 Gela (CL)
 | Sara Alessandrello | 12/10/1982 | Crotone | | ![sara alessandrello](uniti-per-desio/sara-alessandrello.jpg) |
 | Sara Consonni | 29/07/1974 | Desio | | ![sara consonni](uniti-per-desio/sara-consonni.jpg) |
 | Stefano Olmi | 04/01/1969 | Desio | | ![stefano olmi](uniti-per-desio/stefano-olmi.jpg) |
+
+## Biografie Candidati
+
+### Andrea Sala
+
+![Foto Andrea Sala](/uniti-per-desio/andrea-sala.jpg)
+
+- **Data di nascita**: 09/06/1977
+- **Luogo di nascita**: Desio
+
+Ho 38 anni, sono nato e risiedo da sempre a Desio. Ho vissuto la maggior parte di questi anni nel quartiere Ss. Pietro e Paolo coltivando sin da piccolo la mia passione per il basket. Dopo essermi laureato in Pianificazione Territoriale Urbanistica e Ambientale (Architettura) al Politecnico di Milano ed aver collaborato presso uno studio di progettazione, dal 2010 sono tornato a lavorare a Desio.
+
+Con l’arrivo delle mie due bimbe ho iniziato a vivere più da vicino la nostra città seguendo con più interesse gli eventi sportivi, sociali e culturali.
+
+Pochi mesi fa mi si è presentata un’opportunità che non potevo e non volevo lasciarmi sfuggire: perché non partecipare attivamente in una lista civica per poter dare il mio contributo? Sono convinto che la squadra coordinata da Paolo Smorta sia quella giusta, composta da “semplici” cittadini indipendenti dai vari partiti e con competenze e interessi diversi.
+
+Conosco Paolo da qualche anno e ho sempre ammirato il suo grande spirito di iniziativa. Insieme a molti di Voi, ho partecipato ai numerosi eventi da lui organizzati come Assessore, ad esempio, i mercoledì sera in Piazza, la festa di Desio ed ho apprezzato le iniziative svolte al PalaBancodesio quali le partite di Eurolega dell’Armani Milano e di Cantù, le finali di Coppa Italia di basket serie A1, le finali Nazionali Under 15, le partite del volley di serie A, sempre con la partecipazione di un grandissimo pubblico.
+
+Sono sicuro che Paolo Smorta sia la persona adatta per far ripartire la nostra città….quindi riprendiAMOci DESIO!
 
 ## Programma
 
