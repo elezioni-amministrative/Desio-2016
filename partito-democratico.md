@@ -13,30 +13,30 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 
 | Nome | Occupazione | Data di nascita | Luogo di nascita | Foto | Biografia |
 |------|-------------|-----------------|------------------|:----:|:---------:|
-| Achille Taccagni | Studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
-| Alessio Alberti | | | | | |
-| Angelo Mariani | consigliere comunale | | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
-| Angelo Russi | consigliere comunale | | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
-| Cristina Redi | attuale assessore alla Cultura | | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
+| Achille Taccagni | studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
+| Alessio Alberti | studente universitario | | | | |
+| Angelo Mariani | consigliere comunale | 26/3/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
+| Angelo Russi | consigliere comunale, macellaio | 26/11/1953 | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
+| Cristina Redi | vicesindaco e assessore alla Cultura | 6/1/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
 | Dario Hueller | consigliere comunale, architetto | | | ![Foto Dario Hueller](partito-democratico/dario-hueller.jpg) | |
-| Emanuela La Greca | | | | ![Foto Emanuela La Greca](partito-democratico/emanuela-la-greca.jpg) | |
-| Emanuela Rocco | capogruppo in consiglio comunale | | | | |
-| Gabriele Degan | | | | | |
-| Giacomo Perini | | | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
-| Giorgio Gerosa | segretario del PD Desio | | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
-| Jennifer Moro | assessore al Bilancio | | | ![Foto Jennifer Moro](partito-democratico/jennifer-moro.jpg) | |
-| Jenny Arienti | consigliere comunale | | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
+| Emanuela La Greca | psicoterapeuta | 28/12/1977 | | ![Foto Emanuela La Greca](partito-democratico/emanuela-la-greca.jpg) | |
+| Emanuela Rocco | capogruppo in consiglio comunale, ingegnere | 25/2/1974 | | | |
+| Gabriele Degan | artigiano | 2/4/1966 | | | |
+| Giacomo Perini | commerciante | 22/2/1965 | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
+| Giorgio Gerosa | segretario del PD Desio, studente universitario | 21/6/1987 | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
+| Jennifer Moro | assessore al Bilancio, docente universitaria | | | ![Foto Jennifer Moro](partito-democratico/jennifer-moro.jpg) | |
+| Jenny Arienti | consigliere comunale, avvocato | 17/11/1985 | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
 | Marialuisa Ricchiuti | volontaria | 21/11/1957 | Cormano (MI) | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
-| Mariangela Ravasi | | | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
-| Marta Sicurello | | | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
-| Massimo Carota | | | | | |
-| Nunzia Smiraglia | | | | ![Foto Nunzia Smiraglia](partito-democratico/nunzia-smiraglia.jpg) | |
-| Paola Buonvicino | | | | | |
-| Roberto Viganò | | | | | |
-| Rocco Cicchetti | consigliere comunale | | | | |
-| Sara Perego | | | | ![Foto Sara Perego](partito-democratico/sara-perego.jpg) | |
-| Stefano Sala | | | | ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg) | |
-| Vanda Berra | consigliere comunale | | | | |
+| Mariangela Ravasi | impiegata | 4/5/1971 | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
+| Marta Sicurello | neolaureata | 1/9/1992 | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
+| Massimo Carota | grafico | 23/5/1967 | | | |
+| Nunzia Smiraglia | imprenditrice | 31/5/1968 | | ![Foto Nunzia Smiraglia](partito-democratico/nunzia-smiraglia.jpg) | |
+| Paola Buonvicino | psicologa | | | | |
+| Roberto Viganò | pensionato | | | | |
+| Rocco Cicchetti | consigliere comunale, inf. sc. farmaco | | | | |
+| Sara Perego | studentessa universitaria | 6/3/1996 | | ![Foto Sara Perego](partito-democratico/sara-perego.jpg) | |
+| Stefano Sala | architetto | 10/8/1968 | | ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg) | |
+| Vanda Berra | consigliere comunale | 15/6/1966 | | | |
 
 ## Biografie
 
@@ -88,7 +88,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg)
 
-- **Occupazione**: segretario del PD Desio
+- **Occupazione**: segretario del PD Desio, studente universitario
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/giorgio-gerosa.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936503636448832&id=236426113123258))
 
@@ -124,9 +124,9 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 
 ![Foto Sara Perego](partito-democratico/sara-perego.jpg)
 
-- **Occupazione**:
-- **Data di nascita**:
-- **Luogo di nascita**:
+- **Occupazione**: studentessa universitaria
+- **Data di nascita**: 6 marzo 1996
+- **Luogo di nascita**: Desio
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/sara-perego.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936532209779308&id=236426113123258&__mref=message_bubble))
 
@@ -134,9 +134,9 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 
 ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg)
 
-- **Occupazione**:
-- **Data di nascita**:
-- **Luogo di nascita**:
+- **Occupazione**: architetto
+- **Data di nascita**: 10 agosto 1968
+- **Luogo di nascita**: Desio
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/stefano-sala.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936574333108429&id=236426113123258&__mref=message_bubble))
 
