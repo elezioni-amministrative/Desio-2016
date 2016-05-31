@@ -14,7 +14,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Nome | Occupazione | Data di nascita | Luogo di nascita | Foto | Biografia |
 |------|-------------|-----------------|------------------|:----:|:---------:|
 | Achille Taccagni | studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
-| Alessio Alberti | studente universitario | | | | |
+| Alessio Alberti | studente universitario | | | | [:link:](#alessio-alberti) |
 | Angelo Mariani | consigliere comunale | 26/3/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale, macellaio | 26/11/1953 | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
 | Cristina Redi | vicesindaco e assessore alla Cultura | 6/1/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
@@ -75,6 +75,38 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 ### Alessio Alberti
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936519129780616&id=236426113123258&__mref=message_bubble))
+
+Sono nato e cresciuto a Desio. Abito da sempre in zona Stazione. Ho frequentato illiceo scientifico Majorana a Desio e ora sono laureando in Economia e Diritto Internazionale all’Università degli Studi di Milano.
+
+Interessato al sociale e attivo nell’associazionismo civile, da un paio d’anni mi sono avvicinato alla politica attiva nella mia città, iscrivendomi nel 2014 al Partito Democratico, partecipando e promuovendo iniziative che potessero favorire un maggiore coinvolgimento della comunità desiana nelle scelte dell’Amministrazione. Partecipo nelle attività promosse dal nostro Comitato di Quartiere Stazione, che si riunisce ogni ultimo giovedì del mese in via Lampugnani 119. Do il mio contributo nel Controllo del Vicinato, strumento fondato su reti di solidarietà per promuovere una maggiore sicurezza, partecipata e condivisa, nel nostro territorio.
+
+In questi cinque anni, e in particolare nei mesi passati, l’Amministrazione Corti ha focalizzato la propria attenzione sul nostro quartiere.
+
+Da gennaio 2016 è entrato in vigore il nuovo piano parcheggi, che grazie alla creazione della ZPRU con pass per residenti e all’introduzione di soste a pagamento e a disco orario ha migliorato la situazione preesistente per i pendolari e soprattutto per noi abitanti del quartiere. Si potranno apportare migliorie se necessarie.
+
+La nuova pista ciclabile che dalla Stazione corre lungo via Tagliabue si inserisce in un progetto più ampio volto a favorire nell’intera città la mobilità ciclopedonale. In questo senso la prossima costruzione della Bicistazione lungo Viale della Stazione permetterà di risolvere l’annoso problema dei furti di biciclette per chi decide di recarsi a prendere il treno senza ricorrere all’automobile. 
+
+Grazie all’impegno di tanti fra noi cittadini del quartiere siamo riusciti a vincere i fondi (30mila €uro) messi a disposizione dall’Amministrazione con il Bilancio Partecipativo 2015: il progetto di videosorveglianza condivisa fra pubblico e privati permetterà di affrontare con maggiore efficacia e tempestività il problema della sicurezza, così tanto sentito soprattutto dai residenti di via Segantini e limitrofi.
+
+L’apposizione della nuova segnaletica verticale lungo i nostri marciapiedi indica l’imminente entrata in funzione del nuovo piano di spazzamento strade, in grado di garantire una periodica ed efficace pulizia della sede stradale e dei marciapiedi.
+
+#### IL MIO PROGRAMMA PER IL CONSIGLIO COMUNALE
+
+Il mio impegno per Desio e per il quartiere Stazione vuole essere costante ed incisivo.
+
+Occorre procedere con la creazione del parcheggio di via Zandonai, così da decongestionare il traffico dei pendolari che giungono da fuori quartiere e permettere a noi residenti di avere ancora più spazio per parcheggiare le nostre auto.
+
+Occorre continuare l’estensione delle piste ciclabili collegando quella di via Tagliabue, ad ovest, con quella di via Molinara e con la Stazione, ed in direzione est con Lissone , favorendo l’interconnessione e l’ampliamento dei percorsi ciclopedonali sul territorio desiano e con i comuni limitrofi.
+
+Occorre insistere con forza e determinazione affinché RFI ponga la Stazione di Desio al centro delle proprie attenzioni, e costruisca finalmente le barriere fonoassorbenti come richieste dai cittadini residenti nelle immediate vicinanze della ferrovia.
+
+Occorre introdurre e sviluppare le figure del custode sociale e del nonno civico, coinvolgendo anche le persone anziane del nostro quartiere in progetti di cittadinanza attiva volti a contrastare la solitudine e far emergere bisogni inespressi.
+
+Occorre introdurre la figura dell’Agente di quartiere, spingendo sull’evoluzione del servizio da Polizia locale a Polizia di prossimità e cercando in tal modo di prevenire gli eventi e recepire i bisogni dei cittadini residenti in ogni quartiere, compreso il nostro. L’estensione della videosorveglianza con la collaborazione tra pubblico e privati, il monitoraggio di tutti i varchi di accesso alla città e l’utilizzo corretto del Controllo del Vicinato contribuiranno inoltre a creare un maggiore senso di sicurezza.
+
+Desio ha bisogno di continuare a percorrere la strada intrapresa in questi anni. E lo deve fare ponendo al centro le esigenze e i bisogni dei cittadini residenti nei diversi quartieri della città.
+
+Sarà mio compito all’interno della nuova Amministrazione richiamare l’attenzione di Sindaco, Assessori e Consiglio Comunale nei riguardi delle specifiche questioni che vedono protagonista il mio quartiere, il nostro quartiere Stazione.
 
 ### Dario Hueller
 
