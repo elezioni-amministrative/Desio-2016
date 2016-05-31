@@ -82,7 +82,28 @@ Incentivare sport ed attività per tutte le varie fasce di età, come rispetto d
 
 | Nome | Luogo di nascita | Data di Nascita | Foto |
 |------|------------------|-----------------|:----:|
-
+| Alberto Viglione | | | |
+| Andrea Gaetano Capurso | | | |
+| Angelo Giovanni Gornati | | | |
+| Antonietta Farruggio | | | |
+| Chiara Seruggia | | | |
+| Christian Morabito | | | |
+| Enrico Valvano | | | |
+| Fabio Antonio Barbirato | | | |
+| Fiorella Carpinaghi | | | |
+| Giancarlo Romanato | | | |
+| Giorgia Napolitano | | | |
+| Giovanni Campisi | | | |
+| Giuseppe Conte | | | |
+| Guido Santilli | | | |
+| Luca Sala | | | |
+| Marika Farina | | | |
+| Meneghetti Benito Dei | | | |
+| Oscar Latella | | | |
+| Sabina giorgina Rinaudo | | | |
+| Salvatore Farruggio | | | |
+| Selene Broggio | | | |
+| Valentina Maddalena Pandiscia | | | |
 
 ## Link e Risorse
 

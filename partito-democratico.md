@@ -13,7 +13,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 
 | Nome | Occupazione | Data di nascita | Luogo di nascita | Foto | Biografia |
 |------|-------------|-----------------|------------------|:----:|:---------:|
-| Achille Taccagni | Studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/09/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
+| Achille Taccagni | Studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
 | Alessio Alberti | | | | | |
 | Angelo Mariani | consigliere comunale | | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale | | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
@@ -45,7 +45,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg)
 
 - **Occupazione**: Studente di Giurisprudenza presso l’Università degli Studi di Milano
-- **Data di nascita**: 26/09/1994
+- **Data di nascita**: 26/04/1994
 - **Luogo di nascita**: Desio
 
 [Video di presentazione](/partito-democratico/video/achille-taccagni.mp4)
