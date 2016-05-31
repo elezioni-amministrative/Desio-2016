@@ -48,7 +48,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 - **Data di nascita**: 26/04/1994
 - **Luogo di nascita**: Desio
 
-[Video di presentazione](/partito-democratico/video/achille-taccagni.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/achille-taccagni.mp4)
 
 Abito a Desio, in Corso Italia, da quando sono nato, e in questa città ho compiuto tutti gli studi fino al diploma di maturità classica ottenuto nel 2012 presso il Liceo Ettore Majorana, dove per due anni ho ricoperto la carica di Rappresentante degli Studenti.
 
@@ -74,7 +74,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 ### Alessio Alberti
 
-[Video di presentazione](/partito-democratico/video/alessio-alberti.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4)
 
 ### Dario Hueller
 
@@ -82,7 +82,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 - **Occupazione**: consigliere comunale, architetto
 
-[Video di presentazione](/partito-democratico/video/dario-hueller.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/dario-hueller.mp4)
 
 ### Giorgio Gerosa
 
@@ -90,7 +90,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 
 - **Occupazione**: segretario del PD Desio
 
-[Video di presentazione](/partito-democratico/video/giorgio-gerosa.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/giorgio-gerosa.mp4)
 
 ### Marialuisa Ricchiuti
 
@@ -100,7 +100,7 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 - **Data di nascita**: 21/11/1957
 - **Luogo di nascita**: Cormano (MI)
 
-[Video di presentazione](/partito-democratico/video/marialuisa-ricchiuti.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/marialuisa-ricchiuti.mp4)
 
 Ho deciso di candidarmi a consigliere comunale. Desio deve continuare nell’esperienza di risanamento e di progresso della giunta Corti, il cui motto è stato e sarà **Il Benessere del Cittadino**. Non si deve tornare indietro. Per questo sono convinta di poter dare un contributo attivo.
 
@@ -128,7 +128,7 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 - **Data di nascita**:
 - **Luogo di nascita**:
 
-[Video di presentazione](/partito-democratico/video/sara-perego.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/sara-perego.mp4)
 
 ### Stefano Sala
 
@@ -138,7 +138,7 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 - **Data di nascita**:
 - **Luogo di nascita**:
 
-[Video di presentazione](/partito-democratico/video/stefano-sala.mp4)
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/stefano-sala.mp4)
 
 ## Link e Risorse
 
