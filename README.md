@@ -4,6 +4,8 @@ Questo è un contenitore che vuole fornire ai cittadini desiani la possibilità 
 
 Nel caso di mancanze e richieste di modifiche o aggiunte, contattatemi. [Qui](richiesta-del-programma-elettorale.md) maggiori informazioni.
 
+[Articolo sul sito del Comune di Desio](http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=38462)
+
 ## Liste
 
 - [Desio Al Centro](desio-al-centro.md)
