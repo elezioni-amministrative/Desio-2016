@@ -14,7 +14,7 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 | Nome | Occupazione | Data di nascita | Luogo di nascita | Foto | Biografia |
 |------|-------------|-----------------|------------------|:----:|:---------:|
 | Achille Taccagni | studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
-| Alessio Alberti | studente universitario | | | ![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg) | [:link:](#alessio-alberti) |
+| Alessio Alberti | studente universitario | 10/04/1989 | Desio | ![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg) | [:link:](#alessio-alberti) |
 | Angelo Mariani | consigliere comunale | 26/3/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale, macellaio | 26/11/1953 | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
 | Cristina Redi | vicesindaco e assessore alla Cultura | 6/1/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
@@ -75,6 +75,9 @@ I tre punti su cui voglio impostare la mia campagna elettorale sono:
 ### Alessio Alberti
 
 ![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg)
+
+- **Data di nascita**: 10/04/1989
+- **Luogo di nascita**: Desio
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/alessio-alberti.mp4) ([link Facebook](https://m.facebook.com/story.php?story_fbid=936519129780616&id=236426113123258&__mref=message_bubble))
 
