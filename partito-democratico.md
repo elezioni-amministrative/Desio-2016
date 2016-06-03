@@ -163,7 +163,7 @@ Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO 
 
 [Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/marta-sicurello.mp4) ([Link facebook](https://www.facebook.com/PdDesio/videos/937095926389603/))
 
-- **Luogo di nascita**: Desio
+- **Luogo di nascita**: Bollate
 - **Data di nascita**:  01/09/1992
 - **Occupazione**: neolaureata
 
