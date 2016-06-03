@@ -15,28 +15,28 @@ Forza politica appartenente alla [coalizione di centro sinistra](coalizione-di-c
 |------|-------------|-----------------|------------------|:----:|:---------:|
 | Achille Taccagni | studente di Giurisprudenza presso l’Università degli Studi di Milano | 26/04/1994 | Desio | ![Foto Achille Taccagni](partito-democratico/achille-taccagni.jpg) | [:link:](#achille-taccagni) |
 | Alessio Alberti | studente universitario | 10/04/1989 | Desio | ![Foto Alessio Alberti](partito-democratico/alessio-alberti.jpg) | [:link:](#alessio-alberti) |
-| Angelo Mariani | consigliere comunale | 26/3/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
+| Angelo Mariani | consigliere comunale | 26/03/1954 | | ![Foto Angelo Mariani](partito-democratico/angelo-mariani.jpg) | |
 | Angelo Russi | consigliere comunale, macellaio | 26/11/1953 | | ![Foto Angelo Russi](partito-democratico/angelo-russi.jpg) | |
-| Cristina Redi | vicesindaco e assessore alla Cultura | 6/1/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
+| Cristina Redi | vicesindaco e assessore alla Cultura | 06/01/1978 | | ![Foto Cristina Redi](partito-democratico/cristina-redi.jpg) | |
 | Dario Hueller | consigliere comunale, architetto | | | ![Foto Dario Hueller](partito-democratico/dario-hueller.jpg) | |
 | Emanuela La Greca | psicoterapeuta | 28/12/1977 | | ![Foto Emanuela La Greca](partito-democratico/emanuela-la-greca.jpg) | |
-| Emanuela Rocco | capogruppo in consiglio comunale, ingegnere | 25/2/1974 | | | |
-| Gabriele Degan | artigiano | 2/4/1966 | | | |
+| Emanuela Rocco | capogruppo in consiglio comunale, ingegnere | 25/02/1974 | | | |
+| Gabriele Degan | artigiano | 02/04/1966 | | | |
 | Giacomo Perini | commerciante | 22/2/1965 | | ![Foto Giacomo Perini](partito-democratico/giacomo-perini.jpg) | |
-| Giorgio Gerosa | segretario del PD Desio, studente universitario | 21/6/1987 | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
+| Giorgio Gerosa | segretario del PD Desio, studente universitario | 21/06/1987 | | ![Foto Giorgio Gerosa](partito-democratico/giorgio-gerosa.jpg) | |
 | Jennifer Moro | assessore al Bilancio, docente universitaria | | | ![Foto Jennifer Moro](partito-democratico/jennifer-moro.jpg) | |
 | Jenny Arienti | consigliere comunale, avvocato | 17/11/1985 | | ![Foto Jenny Arienti](partito-democratico/jenny-arienti.jpg) | |
 | Marialuisa Ricchiuti | volontaria | 21/11/1957 | Cormano (MI) | ![Foto Marialuisa Ricchiuti](partito-democratico/marialuisa-ricchiuti.jpg) | [:link:](#marialuisa-ricchiuti) |
-| Mariangela Ravasi | impiegata | 4/5/1971 | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
-| Marta Sicurello | neolaureata | 1/9/1992 | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | |
-| Massimo Carota | grafico | 23/5/1967 | | | |
-| Nunzia Smiraglia | imprenditrice | 31/5/1968 | | ![Foto Nunzia Smiraglia](partito-democratico/nunzia-smiraglia.jpg) | |
+| Mariangela Ravasi | impiegata | 04/05/1971 | | ![Foto Mariangela Ravasi](partito-democratico/mariangela-ravasi.jpg) | |
+| Marta Sicurello | neolaureata | 01/09/1992 | | ![Foto Marta Sicurello](partito-democratico/marta-sicurello.jpg) | [:link:](#marta-sicurello) |
+| Massimo Carota | grafico | 23/05/1967 | | | |
+| Nunzia Smiraglia | imprenditrice | 31/05/1968 | | ![Foto Nunzia Smiraglia](partito-democratico/nunzia-smiraglia.jpg) | |
 | Paola Buonvicino | psicologa | | | | |
 | Roberto Viganò | pensionato | | | | |
 | Rocco Cicchetti | consigliere comunale, inf. sc. farmaco | | | | |
-| Sara Perego | studentessa universitaria | 6/3/1996 | | ![Foto Sara Perego](partito-democratico/sara-perego.jpg) | |
-| Stefano Sala | architetto | 10/8/1968 | | ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg) | |
-| Vanda Berra | consigliere comunale | 15/6/1966 | | | |
+| Sara Perego | studentessa universitaria | 06/03/1996 | | ![Foto Sara Perego](partito-democratico/sara-perego.jpg) | |
+| Stefano Sala | architetto | 10/08/1968 | | ![Foto Stefano Sala](partito-democratico/stefano-sala.jpg) | |
+| Vanda Berra | consigliere comunale | 15/06/1966 | | | |
 
 ## Biografie
 
@@ -156,6 +156,28 @@ La passione per la politica che da sempre mi caratterizza è di forte stimolo pe
 Con il Partito Democratico di Desio e nella coalizione che sostiene Roberto Corti questi temi trovano cittadinanza.
 
 Se mi aiutate – BARRANDO ROBERTO CORTI SINDACO, IL SIMBOLO DEL PD E SCRIVENDO IL MIO COGNOME – continueremo su questa buona strada!
+
+### Marta Sicurello
+
+![Foto Marta Sicurello](/partito-democratico/marta-sicurello.jpg)
+
+[Video di presentazione](https://github.com/elezioni-amministrative/Desio-2016/raw/master/partito-democratico/video/marta-sicurello.mp4) ([Link facebook](https://www.facebook.com/PdDesio/videos/937095926389603/))
+
+- **Luogo di nascita**: Desio
+- **Data di nascita**:  01/09/1992
+- **Occupazione**: neolaureata
+
+Ho 23 anni e abito da sempre a Desio. Sono neolaureata in Scienze politiche alla Statale di Milano.
+
+Ho militato diversi anni nel gruppo dei Giovani Democratici, avendo così modo di fare prime esperienze politiche. Insieme abbiamo creato eventi culturali e politici, partecipato a scuole di formazione e fatto propaganda e campagna elettorale. È stata una bella esperienza, grazie alla quale ho conosciuto molte persone. 
+
+Sono inoltre educatrice oratoriana, un'altra attività che mi consente di discutere di tematiche differenti e di conoscere le nuove generazioni. Ho tante passioni: il calcio, lo sport, il cinema, la musica.
+
+Mi candido perché, in un momento storico come questo, ho sentito la fiducia di una squadra che mi ha fortemente voluta. Voglio impegnarmi per la mia città che, in questi primi 5 anni di amministrazione Corti, è cresciuta e diventata più bella. Sono ancora tante le cose da fare e vorrei esserne parte attiva. I temi che più mi stanno a cuore sono legati alla riqualificazione delle periferie, così come del centro. Lo sviluppo culturale e sportivo. La solidarietà e l'associazionismo.
+
+Il mio impegno per Desio e, in particolare, per le periferie vuole essere incisivo.
+
+Amo il dialogo con i cittadini, grazie ai quali sto raccogliendo proposte concrete per il miglioramento delle diverse zone nella quotidianità.
 
 ### Sara Perego
 
